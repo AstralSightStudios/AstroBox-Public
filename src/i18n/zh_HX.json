@@ -39,7 +39,6 @@
       "designerFrontend": "巧匠/表相司"
     },
     "releaseName": "版符",
-    "releaseSlogan": "以晨曦为始，启万物之光",
     "copyright": "版权所有 © 2025 AstralSightStudios。保留所有权利"
   },
   "product": {
@@ -232,9 +231,7 @@
       "debugWindow": "校牖",
       "debugWindowDesc": "可昭校牖否？",
       "themeColorTitle": "星辉",
-      "themeColorDesc": "调易AstroBox辉光",
-      "rgbMode": "三光式",
-      "rgbModeDesc": "启三光流彩之效"
+      "themeColorDesc": "调易AstroBox辉光"
     },
     "tools": {
       "title": "玄工",
@@ -261,6 +258,8 @@
     },
     "install": {
       "title": "置器",
+      "removeBondBeforeConnect": "衔前解契",
+      "removeBondBeforeConnectDesc": "衔器前解旧契重缔新盟，可固衔结",
       "sendInterval": "发牍隙",
       "sendIntervalDesc": "置器时发块之隙，调此或解置败"
     },
