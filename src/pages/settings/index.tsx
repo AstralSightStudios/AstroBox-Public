@@ -259,7 +259,7 @@ function InstallSettings() {
 
 function SourceSettings() {
     const { t } = useI18n();
-    const cdnList = ["raw", "jsdelivr", "ghfast"];
+    const cdnList = ["raw", "jsdelivr", "ghfast", "jsdcdn"];
     const officialCdnOnSelect = (selected: number) => {
         const cdn = cdnList[selected] ?? "jsdelivr";
         invoke("app_write_config", {

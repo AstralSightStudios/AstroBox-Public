@@ -27,6 +27,7 @@ enum Cdn {
     Raw,
     JsDelivr,
     GhFast,
+    JsdCdn,
 }
 
 impl Cdn {
@@ -46,6 +47,12 @@ impl Cdn {
                 "https://ghfast.top/{}",
                 url.strip_prefix("https://").unwrap_or(url)
             ),
+            Cdn::JsdCdn => url
+                .replace(
+                    "https://raw.githubusercontent.com/",
+                    "https://cdn.615873.xyz/gh/",
+                )
+                .replace("/refs/heads/main/", "@main/"),
         }
     }
 }
@@ -64,6 +71,7 @@ impl OfficialProvider {
         let cdn = match cdn.unwrap_or("raw") {
             "jsdelivr" => Cdn::JsDelivr,
             "ghfast" => Cdn::GhFast,
+            "jsdcdn" => Cdn::JsdCdn,
             _ => Cdn::Raw,
         };
         let provider = Self {
