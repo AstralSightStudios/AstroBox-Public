@@ -1,22 +1,22 @@
 {
-  "translators": "xinghengCN",
+  "translators": "xinghengCN，若琳Rolin",
   "nav": {
-    "home": "正屏",
-    "device": "器物",
+    "home": "正首",
+    "device": "器件",
     "plugin": "缀件",
     "settings": "枢调"
   },
   "disclaimer": {
     "title": "免责文告",
-    "content": "AstroBox 免责文告\n\n夫用此器（下称“AstroBox”）者，当细览深悟此文。既载而用之，即视为已阅悉此文，甘自承其险责。\n\n⸻\n\n一、 物性昭示\n\nAstroBox乃散修之士所铸三方利器，专济诸君施第三方物（若表盘、快应用、固件等）于小米腕间器。 \n\n斯器非小米官造，亦非其所授所发所持。与小米无主从之系、无连理之约、无代庖之谊。小米官家不担此器之功用、效验、安泰，亦不涉其所致诸果。\n\n⸻\n\n二、 行止自任\n\n此器所司者，多涉更易器物本元，若替资源、调枢机、载非官之物等。此举或生不测之变：\n    •    枢机动荡 功失常伦 或器物寂灭\n    •    私密湮灭 毁损 或泄于外\n    •    官契作废 保用之权丧\n    •    与官器官服相忤\n    •    触官家符信之禁 致登临受阻\n\n凡此诸行皆由君择，当洞明利害而后动。祸福自招，AstroBox铸器者不涉其咎。\n\n⸻\n\n三、 符信通传之诫\n\n或有功能需假道小米符信之径，以取物启器。当是时，君之符契（若名号、密语、过所等）直传小米官牍以验真身。\n\n斯器非君允不存、不录、不易君之符信。然：\n    •    通传安泰全系小米官牍，非此器可掌可保\n    •    若因径改、策易或安禁致符信受限、登临败、数有失，此器并铸者不涉其责\n    •    君当审慎决用此能，凡涉符信之险皆由自担\n\n切谏诸君：唯信驿方行此事，符契临牍当三思。\n\n⸻\n\n四、 三方物源之讼\n\n此器所载诸物，或采自公网三方之坛，若开源之庭（GitHub类）、议阁（若米坛）、流布之网（jsDelivr类）等。\n\n诸物皆出原主，AstroBox但为通达之具，不保：\n    •    物之合律 周全 或确然\n    •    无恶码 无毁行\n    •    无侵他人智权或利\n    •    与君器相契无伤\n\n君当自度律法利害而后取用，凡涉讼狱、技艺、货殖之责皆由自承。\n\n⸻\n\n五、 安责弃言\n\nAstroBox依“现貌”而供，不保其功长存、与诸器相合、效验如神或堪专任。君既明晓：凡因用或不得用此器致损（若直损、间损、利失、数湮、器毁、法绳加身），AstroBox铸者并涉事各方皆不偿。\n\n且此器不设官家术援，亦无应问解困之责。\n\n⸻\n\n六、 文更终释\n\nAstroBox保更文之权，或循律改、器新、策易而为之。新文既布即效，不另告君。\n\n若更文后仍用此器，即视为纳新文。终释之权，AstroBox铸者独掌。\n\n⸻\n\n诸君载器前，当自度术力、承险之量、守法之责。若此文有未合处，万勿载、勿置、勿用AstroBox。\n\n若此文异乎简体本弃言文者，一从简体本为则。",
+    "content": "AstroBox 免责文告\n\n夫用本程式（下称其为“AstroBox”）者，皆当细览深悟此文。既载而用之，即已阅悉此免责文告，其险责甘自承之。\n\n⸻\n\n一、 物性昭示\n\nAstroBox乃散修之士所铸三方利器程式，专济诸君施第三方物（若表盘、快应用、固件等）于小米腕间器。 \n\n斯程式非小米官造，亦非其所授所发所持。与小米无主从之系、无连理之约、无代庖之谊。小米官家不担此程式之功用、效验、安泰，亦不涉其所致诸果。\n\n⸻\n\n二、 行止自任\n\n此程式所司者，多涉更易器物本元，若替资源、调枢机、载非官之物等。此举或生不测之变：\n    •    枢机动荡 功失常伦 或器物寂灭\n    •    私密湮灭 毁损 或泄于外\n    •    官契作废 保用之权尽数丧失\n    •    与官器官服相忤\n    •    触官家符信之禁 致登临受阻\n\n凡此诸行皆由君自择，当洞明利害而后动，三思而后已。祸福自招，铸AstroBox程式者不涉其咎。\n\n⸻\n\n三、 符信通传之诫\n\n或有功能需假道小米符信之径，以取物启器。当是时，君之符契（若名号、密语、过所等）直传小米官牍以验真身。\n\n斯程式非君允不存、不录、不易君之符信。然：\n    •    通传安泰全系小米官牍，非此器可掌可保\n    •    若因径改、策易或安禁致符信受限、登临败、数有失，此器并铸者不涉其责\n    •    君当审慎决用此能，凡涉符信之险皆由自担\n\n切谏诸君：唯信驿方行此事，符契临牍当三思。\n\n⸻\n\n四、 三方物源之讼\n\n此器所载诸物，或采自公网三方之坛，若开源之庭（GitHub类）、议阁（若米坛）、流布之网（jsDelivr类）等。\n\n诸物皆出原主，AstroBox但为通达之具，不保：\n    •    物之合律 周全 或确然\n    •    无恶码 无毁行\n    •    无侵他人智权或利\n    •    与君器相契无伤\n\n君当自度律法利害而后取用，凡涉讼狱、技艺、货殖之责皆由自承。\n\n⸻\n\n五、 安责弃言\n\nAstroBox依“现貌”而供，不保其功长存、与诸器相合、效验如神或堪专任。君既明晓：凡因用或不得用此器致损（若直损、间损、利失、数湮、器毁、法绳加身），AstroBox铸者并涉事各方皆不偿。\n\n且此器不设官家术援，亦无应问解困之责。\n\n⸻\n\n六、 文更终释\n\nAstroBox保更文之权，或循律改、器新、策易而为之。新文既布即效，不另告君。\n\n若更文后仍用此器，即视为纳新文。终释之权，AstroBox铸者独掌。\n\n⸻\n\n诸君载器前，当自度术力、承险之量、守法之责。若此文有未合处，万勿载、勿置、勿用AstroBox。\n\n若此文异乎简体本弃言文者，一从简体本为则。",
     "confirm": "然",
     "cancel": "否"
   },
   "home": {
-    "title": "正屏",
+    "title": "正首",
     "search": "探微",
-    "appList": "私器牒",
-    "loadingMore": "载物方殷……",
+    "appList": "程式牒",
+    "loadingMore": "载物方殷，稍安勿躁...",
     "none": "观之暂阙，可更索乎？",
     "bottom": "探渊已极，幸甚至哉 ❤",
     "retry": "复试",
@@ -24,10 +24,10 @@
   },
   "about": {
     "title": "本末",
-    "appVersion": "器用版号",
-    "foundNew": "见新章",
+    "appVersion": "程式版符",
+    "foundNew": "已见新章",
     "checking": "校雠中",
-    "download": "纳新",
+    "download": "即刻纳新",
     "latest": "已臻至新",
     "checkUpdate": "校雠新章",
     "buildDate": "铸器日辰",
@@ -49,47 +49,45 @@
   "common": {
     "modify": "更易",
     "cancel": "作罢",
-    "go": "赴",
+    "go": "赴之",
     "loading": "载物中...",
-    "refreshAll": "万象新",
+    "refreshAll": "万象更替",
     "uninstall": "卸器",
-    "disable": "锢",
+    "disable": "弃用",
     "enable": "启",
-    "install": "置器",
-    "ok": "诺",
+    "install": "安置",
+    "ok": "然",
     "open": "启牖",
     "download": "纳",
     "share": "共飨",
     "fail": "功隳"
   },
   "updateDialog": {
-    "title": "见新章 {version}",
+    "title": "已见新章 {version}",
     "body": "鼎革录曰：",
-    "updateNow": "即更",
-    "later": "缓图",
+    "updateNow": "即刻纳新",
+    "later": "暂缓",
     "ignore": "永蔽此版"
   },
   "resourceType": {
-    "quickapp": "器用",
-    "watchface": "晷仪",
+    "quickapp": "快速程式",
+    "watchface": "晷仪盘",
     "firmware": "枢候"
   },
   "resourcePaidType": {
-    "paid": "赋",
+    "paid": "纳赋",
     "force_paid": "强贡"
   },
   "resourceCategory": {
     "hidden_paid": "隐赋",
     "hidden_force_paid": "隐贡",
-    "quickapp": "器用",
-    "watchface": "晷仪"
   },
   "installTask": {
     "watchface": {
-      "description": "本埠晷仪卷宗"
+      "description": "本埠晷仪盘卷宗"
     },
     "thirdPartyApp": {
-      "description": "本埠三方器用"
+      "description": "本埠三方程式"
     },
     "firmware": {
       "description": "本埠枢候卷宗"
@@ -97,20 +95,20 @@
   },
   "banner": {
     "loadFailed": {
-      "title": "旌招未展！"
+      "title": "尝载Banner败之！"
     },
     "noBanners": {
-      "title": "旌招阙如...",
-      "description": "网路弗通乎？"
+      "title": "无Banner...",
+      "description": "无以通网络？"
     },
     "loading": "载物中..."
   },
   "modifyWatchfaceDialog": {
-    "title": "更易晷仪符",
-    "placeholder": "书九或十二位之数"
+    "title": "更易晷仪盘符",
+    "placeholder": "请书九或十二位之数"
   },
   "plugin": {
-    "noPluginsInstalled": "未置缀件，噫",
+    "noPluginsInstalled": "无已置缀件，噫",
     "noFeatures": "斯缀件无可用之能",
     "storeEnd": "探渊已极，幸甚至哉 ❤",
     "loading": "载物中...",
@@ -118,8 +116,8 @@
     "searchPlaceholder": "探微缀件",
     "import": "纳缀件",
     "tabs": {
-      "installed": "已置",
-      "market": "缀市",
+      "installed": "已置之",
+      "market": "缀件市中",
       "features": "异能",
       "details": "细目"
     },
@@ -131,27 +129,27 @@
       "permissions": "权柄"
     },
     "uninstallPrompt": {
-      "title": "卸缀件",
+      "title": "卸此缀件",
       "body": "尔诚欲卸 {pluginName} 乎？",
       "primary": "卸之",
       "secondary": "阖牖"
     },
     "restartPrompt": {
-      "title": "需启关",
-      "body": "凡缀件之易，非启关莫效。尔若诺，器即阖，当手启之。",
+      "title": "需重启关",
+      "body": "凡缀件之更易，非重启关莫效。尔若诺，程式即阖，尔当手启之。",
       "primary": "立启",
       "secondary": "作罢"
     }
   },
   "device": {
-    "authkeyPrompt": "请书符钥",
+    "authkeyPrompt": "请书Authkey符钥",
     "connectFailed": "衔结败",
-    "authkeyPlaceholder": "书器物符钥于此",
+    "authkeyPlaceholder": "书器物Authkey符钥于此",
     "actions": {
-      "delete": "削器物",
+      "delete": "除器物",
       "disconnect": "断衔",
       "shareQR": "符图共飨",
-      "qrResizeHint": "点之易幅",
+      "qrResizeHint": "点之以易文幅",
       "qrTitle": "器物符图："
     },
     "disconnected": "衔已断",
@@ -159,24 +157,24 @@
     "charging": "(纳电中)",
     "lastChargePrefix": " 前度纳电",
     "lastChargeSuffix": "前",
-    "reconnect": "复衔",
+    "reconnect": "复衔之",
     "reconnectFailed": "前衔未竟，请易器更衔",
-    "switch": "易器物",
+    "switch": "更易器物",
     "notConnected": "器未衔",
     "connect": "衔器物",
-    "networkProxyInfo": "AstroBox已代行器上网途",
+    "networkProxyInfo": "AstroBox已代行尔器物之上网途",
     "features": {
-      "installApp": "置器用",
+      "installApp": "置快速程式",
       "installAppDesc": "择器用包体置诸器",
-      "installWatchface": "置晷仪",
+      "installWatchface": "置晷仪盘",
       "installWatchfaceDesc": "择晷仪卷宗置诸器",
       "installFirmware": "置枢候",
       "installFirmwareDesc": "择枢候卷宗置诸器",
-      "manageApps": "理器用",
+      "manageApps": "理快速程式",
       "manageAppsDesc": "司器上器用之务",
       "manageWatchfaces": "理晷仪",
       "manageWatchfacesDesc": "司器上晷仪之务",
-      "deviceInfo": "器物牒",
+      "deviceInfo": "器物详考",
       "deviceInfoDesc": "观此器细目"
     }
   },
@@ -185,7 +183,7 @@
     "placeholder": "请书屏名"
   },
   "providerDialog": {
-    "title": "源埠状"
+    "title": "社源埠状"
   },
   "queue": {
     "title": "候列",
@@ -197,9 +195,9 @@
     "taskQueue": "役务列"
   },
   "loginDialog": {
-    "title": "登小米符信",
+    "title": "登小米符碟",
     "description": "凭符信登临，以契诸器",
-    "usernamePlaceholder": "书名号/云鸽符/小米符信ID",
+    "usernamePlaceholder": "书尔名号/云鸽符/小米符碟ID",
     "passwordPlaceholder": "书密语",
     "saveCredentials": "存符契",
     "loggingIn": "登临中",
@@ -225,16 +223,12 @@
     "general": {
       "title": "常则",
       "reduceAnimation": "敛动效",
-      "reduceAnimationDesc": "荐webkit者启，以定帧",
+      "reduceAnimationDesc": "荐惯使webkit者启，以定帧防抖",
       "language": "语言",
-      "languageDesc": "择AstroBox示文",
-      "translateTeam": "译林郎",
+      "languageDesc": "择AstroBox所示之文",
+      "translateTeam": "译官",
       "debugWindow": "校牖",
       "debugWindowDesc": "可昭校牖否？",
-      "themeColorTitle": "星辉",
-      "themeColorDesc": "调易AstroBox辉光",
-      "rgbMode": "三光式",
-      "rgbModeDesc": "启三光流彩之效"
     },
     "tools": {
       "title": "玄工",
@@ -377,11 +371,11 @@
     }
   },
   "watchfaceManagement": {
-    "title": "理晷仪",
-    "none": "暂无晷仪"
+    "title": "理晷盘仪",
+    "none": "暂无晷仪盘"
   },
   "switchDevice": {
-    "title": "择器",
+    "title": "择器物",
     "getSavedFailed": "取存器败!",
     "scanAndAdd": "扫并添器",
     "scanFailed": "扫器败",
