@@ -1,0 +1,415 @@
+{
+    "translators": "Wxjxpp",
+    "nav": {
+    "home": "回家嘞🤓",
+    "device": "手表",
+    "plugin": "小插件",
+    "settings": "设置"
+  },
+  "disclaimer": {
+    "title": "先喷喷",
+    "content": "爱死戳不可私这软件儿喷喷\n\n用这爱死戳不可私之前，可得给这喷喷看透亮喽。恁要是下载、安上、或者一直用，那就当恁都看懂了、弄明白了、也愿意了，恁自个儿担着用这软件儿出啥岔子跟责任。\n\n⸻\n\n一、这软件儿是啥来头\n\nAstroBox 是人家自个儿捣鼓出来嘞第三方工具，让恁能往小米嘞手表上安外头嘞玩意儿。\n\n这软件儿可不是小米公司弄嘞、也不是小米公司给嘞、小米公司也不管它。它跟小米公司一点儿关系都没得，小米公司也不管这爱死戳不可私管不管用、安不安全、用着出啥事儿。\n\n⸻\n\n二、恁弄嘞事儿恁担着\n\nAstroBox 能叫恁捣鼓手表。恁可瞅准喽，这弄不好可出事儿：\n    •    手表卡壳、不中使、开不开机；\n    •    恁嘞东西没得喽、坏喽、漏喽；\n    •    官方嘞保修啥嘞都不管用喽；\n    •    跟手表自带嘞系统搁不住；\n    •    小米账号给恁锁喽不让登。\n\n恁要是非得弄，那都是恁自个儿嘞主意，恁得知道咋回事儿，出事儿了恁自个儿兜着。爱死戳不可私捣鼓这软件儿嘞人，可不管恁用这软件儿出啥事儿。\n\n⸻\n\n三、登账号嘞事儿得瞅准喽\n\nAstroBox 想弄点儿资源或者捣鼓手表，得用小米账号嘞接口。恁嘞账号密码啥嘞，得发给小米嘞官方服务器验验真假。\n\n这软件儿不存、不记、也不改恁嘞密码。不过嘞：\n    •    安不安全得看小米嘞服务器咋弄嘞，这软件儿管不了也保不了；\n    •    要是人家小米改接口、调政策、或者觉得不安全把恁账号锁喽、登不上、出啥问题，这软件儿跟捣鼓它嘞人可不管；\n    •    恁得瞅准喽用不用这功能，账号密码嘞风险恁自个儿担着。\n\n俺劝恁找个靠铺嘞网再弄，登之前瞅瞅账号得劲儿不。\n\n⸻\n\n四、外头嘞玩意儿咋来嘞俺可说不准\n\n爱死戳不可私上有些资源是从网上别嘞地方弄来嘞。\n\n这些玩意儿都是人家自个儿放嘞，爱死戳不可私就是个跑腿儿嘞，帮着恁安上。俺可不敢保：\n    •    这玩意儿合不合法、全不全、对不对；\n    •    里头没得使坏嘞东西；\n    •    没得抄人家嘞东西；\n    •    搁恁手表上使着得劲儿不、安全不。\n\n恁想用外头嘞玩意儿，得瞅瞅合不合规矩，别犯法。出事儿了恁自个儿兜着。\n\n⸻\n\n五、安全责任俺可担不起\n\n爱死戳不可私是\"就这，恁看着办\"嘞东西。俺可不敢保它能一直使、跟恁滴系统搁得住、管用不管用。恁用这软件儿出啥事儿，爱死戳不可私捣鼓它嘞人跟沾边儿嘞都不赔钱，恁得认这理儿。\n\n还有，这软件儿没得官方嘞人帮恁拾掇问题，恁使着出岔子了、卡壳了、有风险了，俺也没得义务管。\n\n⸻\n\n六、这喷喷俺想改就改\n\nAstroBox 瞅着法变了、软件儿升级了、或者得调调嘞时候，能改这喷喷。改喽就放出来叫恁瞅，可冇人专门去吆喝恁。\n\n恁要是改完还接着用，那就是愿意改后头嘞所有喷喷。爱死戳不可私捣鼓它嘞人说了算这喷喷到底咋算。\n\n⸻\n\n安这软件儿、使这软件儿之前，恁得估摸估摸自个儿嘞本事、能担多大风险、别犯法。要是瞅着这喷喷不顺眼，恁可甭下载、甭安、甭使！",
+    "confirm": "中，太中了！",
+    "cancel": "不中，太不中了！"
+  },
+  "home": {
+    "title": "回家嘞",
+    "search": "瞅瞅",
+    "appList": "应用清单",
+    "loadingMore": "正支棱着加载嘞...",
+    "none": "啥也没得瞅见...",
+    "bottom": "都...都进去嘞...❤",
+    "retry": "再试试",
+    "loading": "正支棱着加载嘞..."
+  },
+  "about": {
+    "title": "这软件儿咋回事儿嘞",
+    "appVersion": "软件儿版本",
+    "foundNew": "瞅见新版本咧！",
+    "checking": "正支棱着瞅瞅有没得新嘞",
+    "download": "下载新嘞",
+    "latest": "这都最新嘞！",
+    "checkUpdate": "瞅瞅有没得新嘞",
+    "buildDate": "啥时候捣鼓出来嘞",
+    "team": "谁捣鼓嘞",
+    "changelog": "瞅瞅都改啥了",
+    "roles": {
+      "nativeFrontend": "捣鼓软件儿壳儿界面嘞",
+      "native": "捣鼓软件儿壳儿嘞",
+      "designerFrontend": "捣鼓好看样儿界面嘞"
+    },
+    "releaseName": "版本外号",
+    "releaseSlogan": "天儿刚明开始，万物都敞亮",
+    "copyright": "版权所有 © 2025 AstralSightStudios 都俺嘞！"
+  },
+  "product": {
+    "detail": "玩意儿咋回事儿",
+    "notFound": "没得找着这玩意儿"
+  },
+  "common": {
+    "modify": "改改",
+    "cancel": "拉倒吧",
+    "go": "去瞅瞅",
+    "loading": "正支棱着加载嘞...",
+    "refreshAll": "都再加载一回",
+    "uninstall": "拿来喽",
+    "disable": "不让使",
+    "enable": "让使",
+    "install": "安上",
+    "ok": "中，管用！",
+    "open": "打开",
+    "download": "下载",
+    "share": "叫人家也瞅瞅",
+    "fail": "不得劲，没成"
+   },
+  "updateDialog": {
+    "title": "瞅见新版本 {version} 咧！",
+    "body": "都改啥了：",
+    "updateNow": "立马儿更新！",
+    "later": "待一会儿再说",
+    "ignore": "这版本甭再吆喝俺了"
+  },
+  "resourceType": {
+    "quickapp": "爱啪啪",
+    "watchface": "看滴",
+    "firmware": "恁设备滴固件"
+  },
+  "resourcePaidType": {
+    "paid": "得花钱滴",
+    "force_paid": "非得花钱滴"
+  },
+  "resourceCategory": {
+    "hidden_paid": "隐藏得花钱滴",
+    "hidden_force_paid": "隐藏非得花钱滴",
+    "quickapp": "爱啪啪",
+    "watchface": "看滴"
+   },
+  "installTask": {
+    "watchface": {
+      "description": "搁恁咔嚓咔嚓⚙️里的看滴"
+    },
+    "thirdPartyApp": {
+      "description": "搁恁咔嚓咔嚓⚙️里的爱啪啪"
+    },
+    "firmware": {
+      "description": "搁恁咔嚓咔嚓⚙️里滴恁设备的固件"
+    }
+  },
+  "banner": {
+    "loadFailed": {
+      "title": "顶头图没得加载成！"
+    },
+    "noBanners": {
+      "title": "没得顶头图...",
+      "description": "网不得劲儿？敲敲路由器！"
+    },
+    "loading": "正支棱着加载嘞..."
+  },
+  "modifyWatchfaceDialog": {
+    "title": "捣鼓捣鼓看滴ID",
+    "placeholder": "怼进去9个或者12个数儿"
+  },
+  "plugin": {
+    "noPluginsInstalled": "还没得安小插件嘞",
+    "noFeatures": "这小插件没得啥能弄嘞",
+    "storeEnd": "都...都进去嘞...❤",
+    "loading": "正支棱着加载嘞...",
+    "detailTitle": "小插件咋回事儿",
+    "searchPlaceholder": "找找小插件",
+    "import": "弄进来小插件",
+    "tabs": {
+      "installed": "安好嘞",
+      "market": "小插件铺儿",
+      "features": "能弄啥",
+      "details": "咋回事儿"
+    },
+    "details": {
+      "author": "谁捣鼓嘞",
+      "website": "搁哪儿",
+      "version": "啥版本",
+      "apiLevel": "API滴档儿",
+      "permissions": "得让俺弄啥"
+    },
+    "uninstallPrompt": {
+      "title": "卸喽小插件",
+      "body": "真给 {pluginName} 卸喽？",
+      "primary": "卸！",
+      "secondary": "不整拉倒！😡"
+    },
+    "restartPrompt": {
+      "title": "得再开一回",
+      "body": "想叫小插件改嘞都管用，得把这软件儿关了再开。\"立马儿再开\"点喽，软件儿就关咧，恁得自个儿再开开。",
+      "primary": "立马儿再开！",
+      "secondary": "拉倒吧"
+    }
+  },
+  "device": {
+    "authkeyPrompt": "怼进去Authkey",
+    "connectFailed": "没得连上",
+    "authkeyPlaceholder": "把恁手表嘞AuthKey怼这儿",
+    "actions": {
+      "delete": "给这手表拿出去喽",
+      "disconnect": "分家了",
+      "shareQR": "叫人家扫二维码瞅瞅",
+      "qrResizeHint": "弄一下能调大小",
+      "qrTitle": "手表二维码："
+    },
+    "disconnected": "分家喽",
+    "connected": "在一块咧",
+    "charging": "(正插着电嘞)",
+    "lastChargePrefix": "上回插电到这会儿",
+    "lastChargeSuffix": "了",
+    "reconnect": "再连一回",
+    "reconnectFailed": "上回没得连上。去\"换手表\"那儿再连吧",
+    "switch": "换块儿手表",
+    "notConnected": "还没得连手表嘞",
+    "connect": "连手表",
+    "networkProxyInfo": "爱死戳不可私正帮恁嘞手表走网嘞",
+     "fakeAndroidModeInfoLabel": "扮Android模式开开嘞，搁这模式没法儿跟手表正常连上，安玩意儿、拾掇玩意儿啥嘞都弄不成。要是想使这些功能，得先给这模式关了，再重新连手表。",
+     "features": {
+      "installApp": "安爱啪啪",
+      "installAppDesc": "挑个爱啪啪包安手表上",
+      "installWatchface": "安看滴",
+      "installWatchfaceDesc": "挑个看滴文件安手表上",
+      "installFirmware": "安固件",
+      "installFirmwareDesc": "挑个系统固件安手表上",
+      "manageApps": "拾掇爱啪啪",
+      "manageAppsDesc": "拾掇手表上嘞爱啪啪",
+      "manageWatchfaces": "拾掇看滴",
+      "manageWatchfacesDesc": "拾掇手表上嘞看滴",
+      "deviceInfo": "瞅瞅手表咋回事儿",
+      "deviceInfoDesc": "瞅瞅这手表嘞底细"
+    }
+  },
+  "openToPageDialog": {
+    "title": "蹦到哪儿",
+    "placeholder": "怼进去想去嘞地儿名儿"
+  },
+  "providerDialog": {
+    "title": "从哪儿整嘞玩意儿咋样了"
+  },
+  "queue": {
+    "title": "排嘞队",
+    "downloadQueue": "下载排嘞队",
+    "installQueue": "安装排嘞队",
+    "noTasks": "队里还空着嘞",
+    "titleShort": "排嘞队",
+    "viewTasks": "瞅瞅都排啥队了",
+    "taskQueue": "任务排嘞队"
+  },
+  "loginDialog": {
+    "title": "拿恁米账号怼",
+    "description": "拿恁米账号给怼上去，把恁同步嘞手表扯过来",
+    "usernamePlaceholder": "怼进去恁大名电话恁米账号ID",
+    "passwordPlaceholder": "怼进去悦拾",
+    "saveCredentials": "存住用户名跟悦拾",
+    "loggingIn": "正支棱着登嘞",
+    "login": "登！",
+    "emptyError": "悦拾或者账号怼空喽！",
+    "iosCopyAlertTitle": "获取结果",
+    "iosCopyAlertContentTip": "你好像用的是iOS设备。因为接口限制，iOS设备暂时不支持自动添加已经绑定的设备。你在下面找你打算连接的设备，把那串Authkey复制了，然后到“切换设备”界面进行连接",
+      "2fa": {
+      "title": "得整两次验证",
+      "body": "恁这账号得弄两步验证。点\"中\"，俺开浏览器叫恁弄。得蹦跶两回。瞅见页上写\"中\"了，再蹦回爱死戳不可私重新登就中。"
+    }
+  },
+  "permission": {
+    "ble": {
+      "required": "想啥都能使，得叫爱死戳不可私使蓝牙。给喽权限再开开软件儿就中。"
+    }
+  },
+  "connect": {
+    "failed": "没得连上",
+    "iosIgnoreTips": "没怼上，你进到系统蓝牙设置里瞅瞅你要连的设备，点右边那个长得跟(i)样的按钮进到里头去，点“忘嘞悦拾”，然后再瞅瞅。",
+     "handshakeFailed": "没得对上暗号",
+    "authFailed": "恁怼嘞钥匙不对，或者后头嘞东西出岔子了。关了软件儿再开开试试。"
+  },
+  "settings": {
+    "title": "咔嚓咔嚓⚙️",
+    "general": {
+      "title": "一般嘞",
+      "reduceAnimation": "少动弹点儿",
+      "reduceAnimationDesc": "怕晃眼嘞最好开开",
+      "language": "喷啥话",
+      "languageDesc": "挑 AstroBox 喷啥话",
+      "translateTeam": "谁喷滴话",
+      "translateTeamDesc": "瞅瞅这喷滴话谁整滴",
+       "debugWindow": "调试窗口",
+      "debugWindowDesc": "显示调试窗口",
+      "themeColorTitle": "整体啥色儿啊",
+      "themeColorDesc": "整整爱死戳不可私滴色儿",
+      "fixedHeader": "卡死头顶",
+      "fixedHeaderDesc": "打开之后，顶上会固定在屏幕最上边。（建议破窗户11用户别打开）",
+      "micaEffect": "透明效果",
+      "micaEffectDesc": "设置破窗户11系统里的透明效果",
+      "micaEffectFull": "都透明效果",
+      "micaEffectPartial": "边上与顶上透明",
+      "micaEffectTitleOnly": "仅仅顶上透明",
+      "micaEffectInfo": "打开之后，爱死戳不可私的界面会有biutefou滴透明效果，不过你得注意：这个改动可能会影响某些界面的可读性还有高斯模糊特效的美观性。\n你可以设置透明效果的使用范围；要是想关掉系统里所有的透明效果，得到破窗户设置里整。"
+},
+      "tools": {
+      "title": "家伙事儿",
+      "unlockCode": "算算那悦拾码",
+      "unlockCodeDesc": "忘喽手表悦拾了，算个码给它解开",
+      "dialogTitle": "解小米手表嘞锁",
+      "dialogUsage": "咋使",
+      "dialogUsageInfo": "忘密码说明页上，按『上上下下上上下下』嘞顺序点",
+      "result": "算出来嘞",
+      "mac": "MAC 地址",
+      "sn": "SN 码",
+      "noticeTitle": "恁可得瞅准喽",
+      "noticeBody": "这玩意儿是给手表嘞正经主儿忘密码了使嘞！可甭拿去解人家嘞小米手表！恁要瞎使弄出事儿，AstroBox 跟捣鼓它嘞人可一点儿都不管！",
+      "agree": "中！俺瞅了得劲了，愿意！",
+      "calculate": "算！"
+    },
+    "account": {
+      "title": "账号",
+      "loginBBS": "怼上米坛账号",
+      "loginBBSDesc": "怼上米坛账号，搬运米坛嘞玩意儿",
+      "syncDevices": "把俺嘞设备弄过来😎",
+      "syncDevicesDesc": "从小米运动健康那儿把俺嘞设备弄过来",
+      "bbsAccount": "米坛账号"
+    },
+    "install": {
+     "title": "安玩意儿",
+     "iosFakeAndroidMode": "扮机器人儿（Android）模式",
+     "iosFakeAndroidModeDesc": "扮成机器人儿系统（Android）并暂时连接设备来解锁某些功能（因为系统限制，打开后只能坚持一会儿连接，要是想安装或者整整资源就把这个功能关掉）",
+     "iosFakeAndroidModeEnableAlertTitle": "打开扮机器人儿（Android）模式",
+     "iosFakeAndroidModeEnableAlertContent": "你这是要打开扮机器人儿（Android）模式呐！\n打开这个模式并重新连接设备后，就能解锁穿戴设备只有在用机器人儿（Android）连接时才能用的某些功能。但因为小米的系统限制，打开这个模式后，爱死戳不可私和设备的连接只能坚持一会儿，等设备绑定成功后，连接会立马断开。这就意味着在这个模式下，你没法使用除了绑定设备之外的任何功能，包括安装资源、卸载资源。要是想使用这些功能，就得关掉这个模式，然后重新连接设备。\n确定要断开当前设备并打开这个模式吗？",
+      "removeBondBeforeConnect": "连接之前丢掉绑定",
+      "removeBondBeforeConnectDesc": "在连接设备之前丢掉绑定来重新配对，能帮着改善断开连接的情况"
+      "sendInterval": "隔多久发一疙瘩",
+      "sendIntervalDesc": "安玩意儿时候隔多久发一疙瘩。调调这个能治住安不上嘞毛病"
+    },
+    "source": {
+      "title": "软件儿下载点儿",
+      "officialCdn": "官家嘞下载地儿",
+      "officialCdnDesc": "挑个官家下载地儿嘞地址"
+    },
+    "queue": {
+      "title": "排嘞队",
+      "autoInstall": "下完自个儿安",
+      "autoInstallDesc": "下完排嘞队嘞玩意儿自动安",
+      "dontClear": "安完甭清队",
+      "dontClearDesc": "安完了队还留着，恁好瞅瞅"
+    },
+    "about": {
+      "title": "这软件儿咋回事儿",
+       "aboutAstrobox": "AstroBox 咋回事儿",
+      "aboutAstroboxDesc": "瞅瞅 AstroBox 嘞底细",
+      "openlog": "日志文件夹",
+      "openlogDesc": "打开日志文件夹以检视应用程序日志",
+      "website": "官家嘞窝",
+      "websiteDesc": "蹦到 AstroBox 官家嘞窝看看",
+      "qq": "QQ群",
+      "qqDesc": "蹦到 AstroBox 官家QQ群喷喷",
+      "bandbbs": "米坛社区滴评论区",
+      "bandbbsDesc": "去瞅瞅评论区",
+      "licences": "开源头喷喷",
+      "licencesDesc": "瞅瞅 AstroBox 用嘞开源头都是咋说嘞",
+      "disclaimer": "喷喷",
+      "disclaimerDesc": "瞅瞅 AstroBox 嘞喷喷"
+    }
+  },
+  "licences": {
+    "title": "开源头喷喷",
+    "intro": "这活儿使嘞所有开源头软件儿嘞喷喷都搁这儿咧：",
+    "node": "Node.js 靠啥",
+    "crates": "Creates.io 包",
+    "filter": "筛筛",
+    "author": "谁捣鼓嘞：",
+    "license": "咋得劲嘞：",
+    "description": "咋回事儿：",
+    "url": "搁哪儿："
+  },
+  "bandbbs": {
+    "title": "米坛账号",
+    "uid": "UID：",
+    "purchased": "花钱买嘞玩意儿",
+    "logout": "退了",
+    "enter_recource_id": "怼上资源滴ID",
+    "resource_id_placeholder": "资源ID",
+    "query": "查询"   
+  },
+  "iframe": {
+    "title": "打开网页"
+  },
+  "addDeviceFromQr": {
+    "title": "俺瞅见这手表了"
+  },
+  "dragToPush": {
+    "title": "想安文件？怼这儿松开！",
+    "supportedFiles": "管啥文件：表盘、快应用、爱死戳不可私小插件"
+  },
+  "onlineImage": {
+    "loadFailed": "图没得加载成"
+  },
+  "pluginStoreTest": {
+    "waiting": "等着弄嘞",
+    "success": "弄成咧！",
+    "refreshAll": "都再加载一回",
+    "pullPage": "把页弄过来",
+    "pullItem": "把东西弄过来=测试小插件",
+    "downloadAndPackage": "下载再打包=测试小插件",
+    "pullReport": "拿到设备的日志",
+   },
+  "productInfo": {
+    "about": "这玩意儿咋回事儿",
+    "update": "新嘞",
+    "updateDescription": "表盘稳当点儿，使着顺溜点儿。",
+    "deviceRequirements": "手表得啥样儿",
+    "compatible": "这玩意儿恁嘞",
+    "incompatible": "这玩意儿跟恁嘞",
+    "incompatibleSuffix": "搁不住",
+    "otherVersions": "还有给别嘞手表弄嘞版本。",
+    "inQueue": "排上队咧",
+    "copyLink": "把链儿抄走",
+    "resizeQr": "点一下能调大小",
+    "viewOnBandBBS": "去米坛瞅瞅"
+  },
+  "appManagement": {
+    "title": "拾掇爱啪啪",
+    "none": "还没得爱啪啪嘞"
+  },
+  "deviceInfo": {
+    "title": "手表嘞底细",
+    "notRealtime": "这页上嘞东西不是立马儿变嘞",
+    "groups": {
+      "device": "手表咋回事儿唉",
+      "system": "系统咋回事儿唉",
+      "status": "手表啥样儿了",
+    },
+    "fields": {
+      "name": "叫个啥",
+      "address": "它住的地方",
+      "authkey": "怼你设备要这悦拾",
+      "connectionType": "咋怼上嘞",
+      "codename": "里头叫啥",
+      "model": "出厂名叫啥嘞",
+      "imei": "设备身份证号",
+      "firmware": "系统啥时候滴",
+      "serial": "也是设备身份证号",
+      "battery": "瞅瞅还剩多少电",
+      "chargeStatus": "正充电不",
+      "lastCharge": "上回啥时候插电的嘞"
+    }
+  },
+  "watchfaceManagement": {
+    "title": "拾掇看滴",
+    "none": "还没得看滴嘞"
+  },
+  "switchDevice": {
+    "title": "挑块儿手表",
+    "getSavedFailed": "没得找着存住嘞手表！",
+    "scanAndAdd": "扫扫手表加进来",
+    "scanFailed": "没得扫成",
+    "scanNotFound": "这会儿没得瞅见手表",
+    "savedDevices": "连过嘞手表",
+    "noSavedDevices": "还没得连过手表嘞"
+  },
+  "providerName": {
+    "official": "官家嘞",
+    "bandbbs": "米坛社区"
+  }
+}
+    
