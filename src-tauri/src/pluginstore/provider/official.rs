@@ -17,7 +17,7 @@ enum Cdn {
     Raw,
     JsDelivr,
     GhFast,
-    JsdCdn,
+    AstroBox_Cdn,
 }
 
 impl Cdn {
@@ -37,10 +37,10 @@ impl Cdn {
                 "https://ghfast.top/{}",
                 url.strip_prefix("https://").unwrap_or(url)
             ),
-            Cdn::JsdCdn => url
+            Cdn::AstroBox_Cdn => url
                 .replace(
                     "https://raw.githubusercontent.com/",
-                    "https://cdn.615873.xyz/gh/",
+                    "https://cdn.astrobox.top/gh/",
                 )
                 .replace("/refs/heads/main/", "@main/"),
         }
@@ -62,7 +62,7 @@ impl OfficialPluginStore {
         let cdn = match cdn.unwrap_or("raw") {
             "jsdelivr" => Cdn::JsDelivr,
             "ghfast" => Cdn::GhFast,
-            "jsdcdn" => Cdn::JsdCdn,
+            "astrobox-cdn" => Cdn::AstroBox_Cdn,
             _ => Cdn::Raw,
         };
         Self {
