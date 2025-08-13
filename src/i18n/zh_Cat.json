@@ -1,0 +1,455 @@
+{
+  "translators": "Charlie_Q，梁逸",
+  "nav": {
+   "home": "猫窝!",
+    "device": "设备~",
+    "plugin": "插件!",
+    "settings": "设置！"
+  },
+  "disclaimer": {
+   "title": "免责声明喵~",
+    "content": "AstroBox 应用免责声明\n\n在使用本软件（以下简称“AstroBox”）前，请您仔细阅读并充分理解本免责声明条款。继续下载安装或使用 AstroBox 即表示您已阅读、理解并接受本声明所述全部内容，并同意自行承担使用本软件所带来的全部风险与责任。\n\n⸻\n\n一、软件属性声明\n\nAstroBox 是由独立开发者开发并发布的第三方工具应用，旨在为用户提供在小米品牌智能穿戴设备上安装第三方资源（包括表盘、快应用、固件等）所需的便捷工具。\n\n本软件并非由小米公司及其任何关联方开发、授权、发布或支持，与小米公司不存在任何形式的隶属、合作、代理或其他法律关系。小米公司不对 AstroBox 的功能、性能、安全性或由使用该软件引发的任何后果承担责任。\n\n⸻\n\n二、用户行为与责任承担\n\nAstroBox 提供的各项功能可能涉及对设备系统的自定义修改，包括但不限于资源替换、配置调整、非官方内容的安装等。此类操作可能会对设备的正常运行、安全性、数据完整性产生不可预测的影响，包括但不限于：\n    •    系统不稳定、功能异常或设备无法启动；\n    •    用户数据丢失、损坏或泄露；\n    •    官方服务协议失效或保修权益丧失；\n    •    与设备预装系统或服务的不兼容；\n    •    触发设备厂商账号管理机制导致登录受限。\n\n上述操作行为完全基于用户的自主选择，用户应在充分理解相关风险的基础上作出决策，并独立承担由此产生的全部后果。AstroBox 开发者不对任何由用户使用本软件引起的直接或间接损害承担责任。\n\n⸻\n\n三、账户登录与数据传输提示\n\nAstroBox 部分功能涉及通过调用小米账号服务接口以访问资源或启用特定设备操作。在此过程中，用户提供的账号凭证信息（包括用户名、密码或授权票据等）将直接提交至小米官方服务器，以完成身份验证。\n\n本软件不会在未经用户同意的情况下存储、记录或篡改用户凭证信息。然而：\n    •    该传输行为的安全性完全依赖于小米服务器及其接口实现机制，非本软件所能控制或担保；\n    •    若因接口变化、服务策略调整或安全机制触发而导致用户账号受到限制、登录失败或产生数据问题，本软件及其开发者不承担相关责任；\n    •    用户应审慎判断是否使用此类功能，并对涉及账号凭证的使用风险承担全部责任。\n\n我们强烈建议用户仅在可信网络环境中操作，并在授权登录前评估其账号安全性要求。\n\n⸻\n\n四、第三方资源来源与内容合法性\n\nAstroBox 提供的部分资源内容来自公开网络或第三方社区平台，包括但不限于开源社区（如 GitHub）、论坛平台（如米坛社区）、内容分发网络（如 jsDelivr）等。\n\n这些资源由其原发布者提供，AstroBox 仅作为工具实现访问与安装，不对第三方资源的以下方面作出任何承诺或保证：\n    •    内容的合法性、完整性或准确性；\n    •    不含恶意代码或破坏性行为；\n    •    不侵犯任何第三方的知识产权或其他合法权益；\n    •    与用户设备或系统的兼容性与安全性。\n\n用户应在确保自身合法权益和符合相关法律法规的前提下，自行决定是否访问或使用第三方资源，并独立承担由此可能引发的法律、技术或经济责任。\n\n⸻\n\n五、安全责任与免责条款\n\nAstroBox 以“按现状”原则提供，不对其功能的持续可用性、系统兼容性、性能表现或特定用途适用性作出任何明示或暗示的保证。用户明确同意，对于因使用或无法使用本软件所产生的任何形式的损失（包括但不限于直接损失、间接损失、利润损失、数据丢失、设备损坏或法律责任），AstroBox 开发者及相关方不承担任何赔偿责任。\n\n此外，本软件不提供官方技术支持，亦无义务响应使用中产生的问题、故障或风险反馈。\n\n⸻\n\n六、条款变更与最终解释权\n\nAstroBox 保留根据法律法规变动、软件功能更新或运营策略调整的需要，随时对本免责声明内容进行修改的权利。相关变更将通过发布渠道及时公布，恕不单独另行通知。\n\n若用户在免责声明更新后继续使用本软件，则视为接受修改后的全部条款。AstroBox 开发者保留本免责声明的最终解释权。\n\n⸻\n\n请用户在安装和使用本软件前，务必评估自身技术能力、设备风险承受能力及法律合规责任。如无法接受本免责声明所述条款，请勿下载、安装或使用 AstroBox。",
+    "confirm": "好的喵",
+    "cancel": "喵呜不要！" ,
+    "alertTitle": "您真的不同意我们的免责声明吗喵...",
+    "alertContent": "请您仔细阅读并同意免责声明后再继续使用 AstroBox喵。如果您不同意，应用程序将立即退出喵。"
+  },
+  "agreements": {
+    "uaTitle": "用户协议喵",
+    "paTitle": "隐私政策喵",
+    "alertTitle": "您真的不同意我们的用户协议与隐私政策吗喵...",
+    "alertContent": "请您仔细阅读并同意用户协议与隐私政策后再继续使用 AstroBox喵。如果您不同意，应用程序将立即退出喵。",
+    "ua": "AstroBox 用户协议\n\n在使用本软件（以下简称“AstroBox”）前，请您仔细阅读并充分理解本用户协议条款。继续下载安装或使用 AstroBox 即表示您已阅读、理解并接受本协议所述全部内容，并同意遵守本协议约定的各项规则与限制。\n\n⸻\n\n一、软件使用授权\n\n1. AstroBox 由 AstralSight Studios 开发并发布，授予用户在遵守本协议的前提下，非排他性、不可转让、可撤销的有限使用权。\n2. 本协议未明示授予的其他权利，均由 AstralSight Studios 保留。\n\n⸻\n\n二、用户行为规范\n\n用户不得利用本软件从事以下行为：\n    •    违反任何适用法律法规或行政规定；\n    •    侵犯第三方知识产权、隐私权或其他合法权益；\n    •    通过技术手段干扰、破坏软件正常运行或服务器安全；\n    •    未经许可，对本软件进行反向工程、反编译、反汇编或修改；\n    •    借助本软件分发恶意代码、违法信息或不当内容；\n    •    将本软件或其衍生作品用于商业目的（除非获得书面授权）。\n\n如用户违反上述规定，AstralSight Studios 有权在不事先通知的情况下终止或限制其使用本软件的权利。\n\n⸻\n\n三、第三方服务与内容\n\n1. 本软件可能集成第三方服务或访问第三方资源（包括但不限于小米官方接口、第三方社区内容等），用户须遵守相应的服务条款。\n2. AstralSight Studios 对第三方服务的稳定性、合法性或安全性不作保证，用户与第三方之间的争议由用户自行解决。\n\n⸻\n\n四、风险提示\n\n1. 本软件涉及对设备的系统资源进行修改，可能导致设备异常、数据丢失或账号受限，用户应自行承担风险。\n2. 对于因用户操作或外部因素造成的任何损失，AstralSight Studios 概不负责。\n\n⸻\n\n五、法律适用与争议解决\n\n1. 本协议的订立、执行与解释及争议解决，适用中华人民共和国法律（不包括冲突法规则）。\n\n⸻\n\n六、协议变更\n\n1. AstralSight Studios 有权根据需要对本协议进行修改，并在发布渠道公布。修改后的协议自公布之日起生效。\n2. 用户在协议修改后继续使用本软件，即视为接受修改后的协议。\n\n⸻\n\n请用户在安装和使用本软件前，务必确认已理解并接受上述条款，否则请立即卸载并停止使用 AstroBox。\n\n",
+    "pa": "AstroBox 隐私政策\n\n本《隐私政策》旨在说明 AstralSight Studios 如何收集、使用、存储、共享及保护用户的相关信息。下载、安装、使用或以其他方式访问本软件即表示您已阅读并接受本政策的全部内容。\n\n⸻\n\n一、信息收集范围\n\n1. 必要信息：\n    •    设备型号、系统版本、唯一设备标识符（如设备序列号、蓝牙 MAC 地址等）；\n    •    基本运行日志（错误日志、崩溃报告、功能调用记录）；\n    •    网络请求信息（访问的第三方资源 URL、调用结果状态等）。\n\n2. 可选信息（需用户授权）：\n    •    第三方平台账号信息（如小米账号的用户名、授权票据等），仅在功能调用过程中直接传输至目标平台，不会未经用户授权在本地或非第三方平台官方服务器持久保存。\n\n3. 匿名化统计信息：\n    •    功能使用频率、设备类型分布、应用版本分布等。\n\n⸻\n\n二、信息使用目的\n\n1. 提供核心功能（如资源安装、设备连接）；\n2. 进行功能优化与性能调优；\n3. 修复故障与改进用户体验；\n4. 满足法律法规及监管要求。\n\n⸻\n\n三、信息共享与披露\n\n1. 不会向任何第三方出售、出租用户信息。\n2. 可能在以下情况下共享信息：\n    •    法律法规要求或政府机构依法请求；\n    •    为防止软件被滥用或保护用户、公众、AstralSight Studios 的合法权益；\n    •    经用户明确同意的情况下。\n\n⸻\n\n四、数据存储与安全\n\n1. 所有日志与统计数据均以匿名化或去标识化形式存储；\n2. 数据可能存放于境内或境外的云服务平台；\n3. 采取合理的技术手段（如加密、访问控制）保护数据安全，但无法保证绝对安全。\n\n⸻\n\n五、用户权利\n\n1. 用户可选择拒绝提供可选信息，但这可能导致部分功能不可用；\n2. 用户有权请求删除本地或云端存储的个人数据（在法律允许的范围内执行）；\n3. 用户可随时卸载本软件以终止信息收集。\n\n⸻\n\n六、隐私政策的更新\n\nAstralSight Studios 可能会根据法律、技术或业务变化更新本政策。更新后的隐私政策将通过官方渠道发布并立即生效。\n\n⸻\n\n请用户在安装和使用本软件前，务必确认已理解并接受上述内容，否则请立即卸载并停止使用 AstroBox。\n\n"
+  },
+  "communitytips": {
+    "title": "社区内容提示喵",
+    "content": "AstroBox平台内的所有收费内容均为资源上传者的个人行为喵，与AstroBox官方无关喵。AstroBox不提供任何收费渠道，亦不参与相关收费内容的分成或获利喵。AstroBox目前唯一盈利方式为品牌周边售卖喵。\n\n⸻\n\n如您发现某些资源在同类软件产品内标注为“免费”，而在AstroBox中为付费资源，请注意：部分平台提供的“免费”下载可能仅为试用版或体验版，并非完整版本喵。AstroBox强制资源上传者明确标注资源是否付费，以确保用户获取透明、准确的信息。如果资源上传者未表明是否为付费资源，均不会通过审核，也不允许资源上传者只上传强制付费资源喵。\n\n⸻\n\nAstroBox平台内部分资源的预览图可能呈现广告样式，此类展示行为均系资源上传者自主设置喵，预览图设计为资源上传者的自由喵，AstroBox不会做任何限制喵，那些内容也并非AstroBox官方发布的广告内容喵。",
+    "confirm": "好的喵",
+    "cancel": "喵呜不要！",
+    "alertTitle": "您真的不同意社区内容提示吗喵...",
+    "alertContent": "如果您不同意，您将无法通过应用内资源社区获取资源喵。",
+    "titles": {
+      "pay": "收费内容喵",
+      "ad":"广告内容喵",
+      "price":"免费及付费喵"
+    }
+  },
+  "home": {
+  "home": {
+    "title": "猫窝!",
+    "search": "找一找喵~",
+    "appList": "应用小队🐱",
+    "loadingMore": "加载中❤...",
+    "none": "没有东西喵！",
+    "bottom": "喵呜！被一查到底了...❤",
+    "retry": "重试",
+    "loading": "重试中..喵喵…."
+  },
+  "about": {
+    "title": "关于😽",
+    "appVersion": "应用版本喵！",
+    "foundNew": "有新版本了喵主人~！",
+    "checking": "正在检查更新喵…",
+    "download": "下载更新喵❤️",
+    "latest": "已经是最新版本了喵(爱心-)",
+    "checkUpdate": "检查更新喵",
+    "buildDate": "搭猫窝日期",
+    "team": "猫猫的好朋友们",
+    "changelog": "更新小本本！",
+    "roles": {
+      "nativeFrontend": "原生/前端猫",
+      "native": "原生猫",
+      "designerFrontend": "设计猫/前端猫"
+    },
+    "releaseName": "猫窝代号",
+    "copyright": "版权所有 © 2025 AstralSightStudios。保留所有权利"
+  },
+  "product": {
+    "detail": "资源详情😼",
+    "notFound": "喵呜！资源不存在哦…O^O"
+  },
+  "common": {
+    "modify": "修改喵！",
+    "cancel": "取消喵！",
+    "go": "跳跳！",
+    "loading": "加载中❤...",
+    "refreshAll": "刷新所有！",
+    "uninstall": "卸载喵",
+    "disable": "禁用",
+    "enable": "启用",
+    "install": "安装喵~",
+    "ok": "好的喵！",
+    "open": "打开",
+    "download": "下载",
+    "share": "分享",
+    "fail": "喵呜！操作失败！",
+    "speedLimit": "你先别急喵！"
+  },
+  "updateDialog": {
+    "title": "有新版本了喵主人~！ {version}",
+    "body": "更新小本本：",
+    "updateNow": "立即更新喵~",
+    "later": "稍后提醒喵~",
+    "ignore": "此版本不再提醒喵"
+  },
+  "resourceType": {
+    "quickapp": "快应用喵",
+    "watchface": "表盘喵",
+    "firmware": "固件喵"
+  },
+  "resourcePaidType": {
+    "paid": "付费",
+    "force_paid": "强制付费"
+  },
+  "resourceCategory": {
+    "hidden_paid": "讨厌付费喵！",
+    "hidden_force_paid": "讨厌强制付费喵！",
+    "quickapp": "快应用喵",
+    "watchface": "表盘喵"
+  },
+  "installTask": {
+    "watchface": {
+      "description": "本地表盘文件"
+    },
+    "thirdPartyApp": {
+      "description": "本地第三方应用"
+    },
+    "firmware": {
+      "description": "本地固件文件"
+    }
+  },
+  "banner": {
+    "loadFailed": {
+      "title": "喵呜！加载失败！"
+    },
+    "noBanners": {
+      "title": "没有东西喵...",
+      "description": "喵？网络问题喵？"
+    },
+    "loading": "拼命加载中喵..."
+  },
+  "modifyWatchfaceDialog": {
+    "title": "修改您的表盘ID喵",
+    "placeholder": "输入9/12位的数字喵"
+  },
+  "plugin": {
+    "noPluginsInstalled": "没有安装插件喵",
+    "noFeatures": "该插件没有任何功能喵！",
+    "storeEnd": "被一查到底了喵...好舒服喵...❤",
+    "loading": "加载中...",
+    "detailTitle": "插件详情",
+    "searchPlaceholder": "找找插件喵~（翻翻翻）",
+    "import": "导入插件 啊~❤️",
+    "tabs": {
+      "installed": "已安装",
+      "market": "插件市场",
+      "features": "功能",
+      "details": "详情"
+    },
+    "details": {
+      "author": "作者",
+      "website": "网站",
+      "version": "版本",
+      "apiLevel": "API 等级",
+      "permissions": "权限"
+    },
+    "uninstallPrompt": {
+      "title": "卸载插件喵",
+      "body": "喵呜！您确定要卸载 {pluginName} 吗喵？",
+      "primary": "残忍卸载喵(哭哭)",
+      "secondary": "关闭"
+    },
+    "restartPrompt": {
+      "title": "需要重启哦",
+      "body": "所有的插件变更都需要重启应用才能生效喵！当您点击立即重启后，应用将关闭，打开应用来找猫猫哦！",
+      "primary": "立刻重启喵！",
+      "secondary": "取消喵…"
+    }
+  },
+  "device": {
+    "authkeyPrompt": "请输入 Authkey 喵",
+    "connectFailed": "链接失败喵…（失望）",
+    "authkeyPlaceholder": "在此输入设备的 AuthKey喵",
+    "actions": {
+      "delete": "删除设备喵…",
+      "disconnect": "断开链接喵",
+      "shareQR": "通过二维码分享喵！",
+      "qrResizeHint": "点击改变大小喵",
+      "qrTitle": "这是设备的二维码喵："
+    },
+    "disconnected": "已断开喵…",
+    "connected": "已连接喵！",
+    "charging": "(被填满中喵)",
+    "lastChargePrefix": " 上次被填满",
+    "lastChargeSuffix": "前",
+    "reconnect": "重新链接喵",
+    "reconnectFailed": "上次连接未成功喵,请到切换设备页重新连接哦",
+    "switch": "切换设备",
+    "notConnected": "设备未连接",
+    "connect": "连接设备",
+    "networkProxyInfo": "AstroBox已代理你设备上的网络请求喵",
+    "fakeAndroidModeInfoLabel": "安卓伪装模式已启用喵，该模式下无法与设备正常建立连接，资源安装、资源管理等功能均不可用喵。若要使用上述功能，请关闭该模式，并重新连接设备喵。",
+    "features": {
+      "installApp": "安装快应用喵",
+      "installAppDesc": "选取一个快应用包体并安装到设备上哦",
+      "installWatchface": "安装表盘喵",
+      "installWatchfaceDesc": "选取一个表盘文件并安装到设备上喵",
+      "installFirmware": "安装固件喵",
+      "installFirmwareDesc": "选取一个系统固件并安装到设备上喵~",
+      "manageApps": "摆弄快应用喵",
+      "manageAppsDesc": "摆弄设备上的快应用喵",
+      "manageWatchfaces": "摆弄表盘喵",
+      "manageWatchfacesDesc": "摆弄设备上的表盘喵",
+      "deviceInfo": "设备信息喵",
+      "deviceInfoDesc": "查看该设备的详细信息喵"
+    }
+  },
+  "openToPageDialog": {
+    "title": "跳转页",
+    "placeholder": "请输入页面名"
+  },
+  "providerDialog": {
+    "title": "社区源的状态喵"
+  },
+  "queue": {
+    "title": "队列喵",
+    "downloadQueue": "下载的队列喵",
+    "installQueue": "安装的队列喵",
+    "noTasks": "队列中没有任务哦…",
+    "titleShort": "队列喵",
+    "viewTasks": "查看任务",
+    "taskQueue": "任务队列"
+  },
+  "loginDialog": {
+    "title": "登录小米账号喵",
+    "description": "使用您的小米账号登录以同步您绑定的设备喵~",
+    "usernamePlaceholder": "请输入用户名/手机号/小米账号ID哦",
+    "passwordPlaceholder": "请输入密码喵",
+    "saveCredentials": "保存用户名和密码喵？",
+    "loggingIn": "登录中",
+   "login": "登录",
+    "emptyError": "密码或账户不能为空喵!",
+    "2fa": {
+      "title": "需要二步验证",
+      "body": "检测到你的账号需要二步验证欸，请点击“确定”前往浏览器进行操作喵，该过程将包含两次浏览器跳转喵。页面提示“ok”后，请返回AstroBox重新尝试找猫猫登录喵。"
+    }
+  },
+  "permission": {
+    "ble": {
+      "required": "您必须给予AstroBox蓝牙权限才能正常使用所有功能喵。请允许AstroBox使用\"附近的设备\"权限后回来找猫猫哦。"
+    }
+  },
+  "connect": {
+    "failed": "链接失败喵！",
+    "handshakeFailed": "握手失败喵！",
+    "authFailed": "密钥错误或后端异常，请尝试重启应用，然后再试喵"
+  },
+  "settings": {
+    "title": "设置!",
+    "general": {
+      "title": "通用",
+      "reduceAnimation": "减少动画喵",
+      "reduceAnimationDesc": "建议webkit用户打开以防止画面一抖一抖的喵",
+      "language": "语言",
+      "languageDesc": "选择AstroBox显示的语言喵",
+      "translateTeam": "翻译的贡献者喵",
+      "translateTeamDesc": "了解当前翻译包由谁创建喵",
+      "themeColorTitle": "主题色喵",
+      "themeColorDesc": "调整AstroBox的主题色喵",
+      "fixedHeader": "固定标题栏喵",
+      "fixedHeaderDesc": "在页面滚动时保持标题栏固定在顶部喵（不建议 Windows11 用户开启哦）",
+      "micaEffect": "透明效果喵",
+      "micaEffectDesc": "配置 Windows11 系统下的透明效果喵",
+      "micaEffectFull": "完全透明效果喵",
+      "micaEffectPartial": "侧边栏和标题栏透明喵",
+      "micaEffectTitleOnly": "仅标题栏透明喵",
+      "micaEffectInfo": "开启后，AstroBox 的页面将具有云母透明效果喵，但是请注意：这可能会影响某些页面的可读性以及高斯模糊特效的美观性喵。\n 您可以配置透明效果的范围；如果想禁用掉系统内全部透明效果，请前往 Windows 设置。",
+      "liveActivity": "实时活动通知",
+      "liveActivityDesc": "开启后将在灵动岛和系统通知中心中展示队列任务执行进度"
+    },
+    "tools": {
+      "title": "神秘工具喵",
+      "debugWindow": "调试窗口喵",
+      "debugWindowDesc": "是否显示调试窗口喵？",
+      "openlog": "日志文件夹",
+      "openlogDesc": "打开日志文件夹以查看程序日志喵",
+      "infoDump": "设备信息喵",
+      "infoDumpDesc": "显示设备运行环境信息以帮助他人快速定位问题喵",
+      "unlockCode": "计算解锁码喵",
+      "unlockCodeDesc": "在忘记设备密码时计算解锁码以重置设备喵",
+      "dialogTitle": "解锁你的小米穿戴设备喵",
+      "dialogUsage": "使用方式…",
+      "dialogUsageInfo": "在忘记密码的说明页点击上下上下上上下下就能进入了喵",
+      "result": "计算结果喵",
+      "mac": "MAC 地址",
+      "sn": "SN 码",
+      "noticeTitle": "注意喵！",
+      "noticeBody": "本工具仅供设备原始所有者在合法情况下用于恢复访问权限喵!请勿用于破解、绕过或非法访问非本人所有的小米设备喵!任何因滥用本工具而导致的法律或道德后果，AstroBox 及其开发者概不负责喵!",
+      "agree": "是的，我已阅读并同意免责声明了喵。",
+      "calculate": "计算"
+    },
+    "account": {
+      "title": "账号",
+      "loginBBS": "登录米坛账号喵",
+      "loginBBSDesc": "登录米坛账号以获取米坛的资源喵",
+      "syncDevices": "同步设备喵",
+      "syncDevicesDesc": "从小米运动健康中同步绑定的设备喵",
+      "bbsAccount": "米坛账号"
+    },
+    "install": {
+      "title": "安装",
+      "iosFakeAndroidMode": "安卓伪装模式喵",
+      "iosFakeAndroidModeDesc": "伪装成安卓系统并短暂连接设备以解锁某些功能喵（由于系统限制，开启后仅能维持一瞬间连接，若要安装或管理资源请关闭喵）",
+      "iosFakeAndroidModeEnableAlertTitle": "启用安卓伪装模式喵",
+      "iosFakeAndroidModeEnableAlertContent": "您正在尝试启用安卓伪装模式！\n启用该模式并重新连接设备后，即可解锁设备端仅在安卓上才能启用的某些功能喵。但由于小米的系统限制，开启此模式后，AstroBox与设备的连接仅能维持一瞬间，在设备绑定成功后连接会立即被断开，这意味着在该模式下你将无法进行除绑定设备外的任何操作，包括安装资源、卸载资源喵。要进行这些操作，请关闭该模式，然后重新连接设备喵。\n确定要断开当前设备并开启该模式喵？",
+      "removeBondBeforeConnect": "连接前解除绑定喵",
+      "removeBondBeforeConnectDesc": "在连接设备前解除绑定以重新进行配对，有助于改善断连现象喵",
+      "sendInterval": "发包间隔",
+      "sendIntervalDesc": "安装时发送分块的间隔,调整此选项可能解决一些安装失败的问题"
+    },
+   "source": {
+      "title": "软件源（重启生效喵）",
+      "officialCdn": "官方源CDN",
+      "officialCdnDesc": "选择官方源的CDN地址喵"
+    },
+    "queue": {
+      "title": "队列",
+      "autoInstall": "自动安装喵",
+      "autoInstallDesc": "在下载完成后自动安装喵",
+      "dontClear": "不清除安装队列喵",
+      "dontClearDesc": "安装完成后不清除队列以方便摆弄摆弄喵"
+    },
+    "about": {
+      "title": "详细信息喵",
+      "aboutAstrobox": "详细信息喵",
+      "aboutAstroboxDesc": "关于AstroBox的详细信息喵",
+      "openlog": "日志文件夹",
+      "openlogDesc": "打开日志文件夹以查看程序日志喵",
+      "website": "官方网站喵",
+      "websiteDesc": "访问AstroBox的官方网站喵",
+      "qq": "奇怪实验喵",
+      "qqDesc": "加入AstroBox官方在南极的奇怪实验喵(920456907)",
+      "licences": "开源许可证喵",
+      "licencesDesc": "查看AstroBox的开源许可证喵",
+      "disclaimer": "免责声明喵",
+      "disclaimerDesc": "查看AstroBox的免责声明喵",
+      "startoobeDesc": "开始初始化流程以重新配置AstroBox喵"
+    }
+  },
+  "licences": {
+    "title": "开源许可",
+    "intro": "本项目中使用的所有软件包的许可证在下面列出来了喵~",
+    "node": "Node.js 依赖",
+    "crates": "Creates.io Packages",
+    "filter": "筛选",
+    "author": "作者:",
+    "license": "许可证:",
+    "description": "描述:",
+    "url": "网址:"
+  },
+  "bandbbs": {
+    "title": "米坛账号",
+    "uid": "UID：",
+    "logout": "退出登录喵！",
+    "purchased": "已购买资源喵",
+    "enter_resource_id": "请输入要下载的付费资源ID喵",
+    "resource_id_placeholder": "资源ID喵",
+    "query": "查询喵"
+  },
+  "iframe": {
+    "title": "打开网页"
+  },
+ "addDeviceFromQr": {
+    "title": "识别到以下设备喵"
+  },
+  "dragToPush": {
+    "title": "松手以把文件丢到astrobox里喵",
+    "supportedFiles": "支持的文件：表盘、快应用、AstroBox插件"
+  },
+  "onlineImage": {
+    "loadFailed": "图片加载失败喵！"
+  },
+  "pluginStoreTest": {
+    "waiting": "等待执行喵",
+    "success": "操作成功喵",
+    "refreshAll": "全部刷新喵",
+    "pullPage": "拉page",
+    "pullItem": "拉item=测试插件",
+    "downloadAndPackage": "下载并打包item=测试插件",
+    "pullReport": "拉取手环日志喵"
+  },
+  "productInfo": {
+    "about": "关于此资源喵",
+    "update": "更新喵",
+    "updateDescription": "优化表盘的稳定性，增强表盘的流畅度喵",
+    "deviceRequirements": "设备的小要求喵",
+    "compatible": "这个东西与你的",
+    "incompatible": "这个东西与你的",
+    "incompatibleSuffix": "不兼容喵！",
+    "otherVersions": "同时也有其他设备版本提供哦",
+    "inQueue": "已在队列中喵",
+    "copyLink": "复制链接喵",
+    "resizeQr": "点击改变大小喵",
+    "viewOnBandBBS": "在米坛社区查看喵"
+  },
+  "appManagement": {
+    "title": "快应用管理",
+    "none": "暂无快应用喵…"
+  },
+  "deviceInfo": {
+    "title": "设备信息",
+    "notRealtime": "此页面不会实时更新喵",
+    "groups": {
+      "device": "设备信息",
+      "system": "系统信息",
+      "status": "设备状态"
+    },
+    "fields": {
+      "name": "名称",
+      "address": "地址",
+      "authkey": "AuthKey",
+      "connectionType": "链接类型",
+      "codename": "产品代号",
+      "model": "型号",
+      "imei": "IMEI",
+      "firmware": "系统版本",
+      "serial": "序列号",
+      "battery": "电量",
+      "chargeStatus": "充电状态",
+      "lastCharge": "上次充电"
+    }
+  },
+  "watchfaceManagement": {
+    "title": "表盘管理",
+    "none": "暂无表盘喵…"
+  },
+  "switchDevice": {
+    "title": "选择设备喵",
+    "getSavedFailed": "获取存储设备失败喵！",
+    "scanAndAdd": "扫描并添加设备喵",
+    "scanFailed": "设备扫描失败喵！",
+    "scanNotFound": "暂时没发现任何设备欸…",
+    "savedDevices": "连接过的设备",
+    "noSavedDevices": "喵呜~还没连接过任何设备喵"
+  },
+  "providerName": {
+    "official": "官方源喵",
+    "bandbbs": "米坛社区喵"
+  },
+  "deviceSupportTips": {
+    "minimumSupportDialogTitle": "最低限度支持喵",
+    "minimumSupportDialogContent": "您的手机系统版本似乎低于Android 13，为了让您拥有更好的体验，请使用搭载Android 13或更高版本的手机喵。对于Android 13以下的低版本设备，我们不确保其可用性喵，也不提供任何技术支持喵。由于我们在前端对新技术的利用，您可能还需要升级WebView版本，才能够正常使用AstroBox喵。",
+    "minimumSupportDialogUpdateWebViewButton": "更新WebView喵"
+  },
+  "oobe": {
+    "welcomeTitleTop": "欢迎来到",
+    "welcomeTitleLeft": "你的下一个",
+    "welcomeTitleRight": "Vela穿戴设备工具❤️",
+    "skip":"跳过喵",
+    "next":"下一步喵",
+    "continue":"继续喵",
+    "welcomeDoneTitle":"欢迎使用喵~",
+    "welcomeDoneDesc":"AstroBox 现已为你准备完毕喵，现在就开始吧喵！"
+  }
+}
