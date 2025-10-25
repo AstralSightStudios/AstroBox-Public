@@ -1,0 +1,459 @@
+{
+  "translators": "Wxjxpp",
+  "nav": {
+    "home": "Inicio",
+    "device": "Reloj",
+    "plugin": "Complementos",
+    "settings": "Ajustes"
+  },
+  "disclaimer": {
+    "title": "Aviso importante",
+    "content": "Aviso legal de la app AstroBox\n\nAntes de usar este programa (de ahora en adelante, \"AstroBox\"), léete bien este aviso. Si sigues descargando, instalando o usando AstroBox, significa que te has leído, entiendes y aceptas todo lo que se dice aquí, y que te haces responsable de cualquier cosa que pueda pasar por usar este programa.\n\n⸻\n\nI. Qué es AstroBox\n\nAstroBox es una app creada por gente como tú y como yo, que sirve para instalar cosillas de terceros (como esferas de reloj, apps rápidas, firmwares, etc.) en los smartwatches de Xiaomi.\n\nOjo, que este programa no lo ha hecho, ni lo permite, ni lo apoya Xiaomi ni ninguna de sus empresas. No tenemos nada que ver con ellos. Xiaomi no se hace responsable de si AstroBox funciona bien, de si es seguro, ni de nada que pueda pasar por usarlo.\n\n⸻\n\nII. Tú eres el responsable\n\nLas cosas que puedes hacer con AstroBox pueden cambiar el sistema de tu reloj, como cambiar cosas, ajustar la configuración o instalar cosas no oficiales. Esto puede hacer que tu reloj funcione mal, que se estropee la seguridad o que pierdas datos. Por ejemplo:\n    •    Que el sistema se vuelva inestable, que algo no funcione o que el reloj no arranque;\n    •    Que pierdas, se dañen o se filtren tus datos;\n    •    Que pierdas la garantía oficial;\n    •    Que algo no funcione bien con el sistema o con las apps que ya vienen en el reloj;\n    •    Que se active la seguridad de Xiaomi y no puedas iniciar sesión.\n\nTú decides si haces esto o no. Piensa bien los riesgos y hazte responsable de lo que pueda pasar. Los creadores de AstroBox no nos hacemos responsables de nada que te pase por usar este programa.\n\n⸻\n\nIII. Ojo con tu cuenta y tus datos\n\nPara algunas cosas, AstroBox necesita acceder a tu cuenta de Xiaomi. Para eso, te pediremos tu nombre de usuario, contraseña o un código de autorización, y lo enviaremos directamente a Xiaomi para que te identifiquen.\n\nNosotros no guardamos ni usamos esa información sin tu permiso. Pero:\n    •    La seguridad de esto depende de Xiaomi, nosotros no podemos controlarlo ni asegurarlo;\n    •    Si tu cuenta se bloquea, no puedes iniciar sesión o tienes problemas con tus datos por culpa de cambios en Xiaomi, nosotros no nos hacemos responsables;\n    •    Tú decides si usas esto o no, y te haces responsable de los riesgos.\n\nTe recomendamos que solo uses esto en redes wifi de confianza y que pienses bien si es seguro usar tu cuenta.\n\n⸻\n\nIV. De dónde vienen las cosas que instalas\n\nAlgunas de las cosas que puedes instalar con AstroBox vienen de internet, de sitios como GitHub, foros o redes de contenido.\n\nEsas cosas las han hecho otras personas. AstroBox solo te ayuda a instalarlas, pero no te asegura nada sobre:\n    •    Si son legales, si están completas o si son correctas;\n    •    Si no tienen virus o cosas malas;\n    •    Si no roban la propiedad intelectual de nadie;\n    •    Si van a funcionar bien con tu reloj.\n\nTú decides si usas esas cosas o no, y te aseguras de que todo esté bien y de cumplir las leyes. Te haces responsable de cualquier problema legal, técnico o económico que pueda pasar.\n\n⸻\n\nV. No nos hacemos responsables\n\nAstroBox se ofrece \"como está\". No te aseguramos que vaya a funcionar siempre, que sea compatible con tu sistema, que funcione bien o que sirva para lo que tú quieres. Tú aceptas que los creadores de AstroBox no nos hacemos responsables de nada que pierdas (ya sea dinero, datos, que se te estropee el equipo o que tengas problemas legales) por usar o no poder usar este programa.\n\nAdemás, no ofrecemos soporte técnico oficial ni estamos obligados a ayudarte si tienes problemas, fallos o riesgos al usarlo.\n\n⸻\n\nVI. Esto puede cambiar\n\nNosotros podemos cambiar este aviso cuando queramos, por ejemplo, si cambian las leyes, si actualizamos el programa o si cambiamos de estrategia. Te avisaremos por los canales oficiales, pero no te avisaremos personalmente.\n\nSi sigues usando AstroBox después de que cambiemos el aviso, significa que aceptas los cambios. Los creadores de AstroBox tenemos la última palabra sobre cómo se interpreta este aviso.\n\n⸻\n\nAntes de instalar y usar este programa, piensa bien si sabes usarlo, si puedes asumir los riesgos y si cumples las leyes. Si no estás de acuerdo con este aviso, no descargues, instales ni uses AstroBox[Lo de arriba está traducido basado en el chino simplificado (China). Si hay algo que no quede bien o que pueda confundirse, mejor fíjate en el chino simplificado (China) de AstroBox o en otras lenguas, ¿vale?].",
+    "confirm": "De acuerdo",
+    "cancel": "No estoy de acuerdo",
+    "alertTitle": "¿Seguro que no estás de acuerdo con el aviso legal?",
+    "alertContent": "Tienes que leer y aceptar el aviso legal para usar AstroBox. Si no estás de acuerdo, la app se cerrará."
+  },
+  "agreements": {
+    "uaTitle": "Acuerdo de usuario",
+    "paTitle": "Política de privacidad",
+    "alertTitle": "¿Seguro que no estás de acuerdo con el acuerdo de usuario y la política de privacidad?",
+    "alertContent": "Tienes que leer y aceptar el acuerdo de usuario y la política de privacidad para usar AstroBox. Si no estás de acuerdo, la app se cerrará.",
+    "ua": "Acuerdo de usuario de AstroBox\n\nAntes de usar este programa (de ahora en adelante, \"AstroBox\"), léete bien este acuerdo de usuario. Si sigues descargando, instalando o usando AstroBox, significa que te has leído, entiendes y aceptas todo lo que se dice aquí, y que aceptas cumplir las reglas y restricciones de este acuerdo.\n\n⸻\n\nI. Permiso para usar el programa\n\n1. AstralSight Studios ha creado y publicado AstroBox, y te da permiso para usarlo, pero solo si cumples este acuerdo. Este permiso no es exclusivo (otros también pueden usarlo), no puedes transferirlo a nadie y podemos quitarlo cuando queramos.\n2. AstralSight Studios se guarda todos los derechos que no se mencionan aquí.\n\n⸻\n\nII. Cómo debes comportarte\n\nNo debes usar este programa para:\n    •    Saltarte ninguna ley, reglamento o norma;\n    •    Robar la propiedad intelectual, la privacidad o los derechos de nadie;\n    •    Estropear el programa o la seguridad del servidor con cosas técnicas;\n    •    Intentar entender cómo funciona el programa, copiarlo o cambiarlo sin permiso;\n    •    Usar este programa para enviar virus, información ilegal o cosas inapropiadas;\n    •    Usar este programa o sus copias para ganar dinero (a menos que te demos permiso por escrito).\n\nSi haces algo de esto, AstralSight Studios puede quitarte el derecho a usar este programa sin avisarte.\n\n⸻\n\nIII. Cosas de terceros\n\n1. Este programa puede usar cosas de terceros, como las apps de Xiaomi o contenido de otras comunidades. Tienes que cumplir las normas de esos terceros.\n2. AstralSight Studios no te asegura que esas cosas de terceros vayan a funcionar bien, que sean legales o que sean seguras. Si tienes problemas con esos terceros, arréglalo tú mismo.\n\n⸻\n\nIV. Ten cuidado\n\n1. Este programa cambia cosas del sistema de tu reloj, lo que puede hacer que se estropee, que pierdas datos o que te bloqueen la cuenta. Tú eres el responsable de esto.\n2. AstralSight Studios no se hace responsable de nada que te pase por usar este programa o por cosas que no podemos controlar.\n\n⸻\n\nV. Leyes y problemas\n\n1. Este acuerdo se rige por las leyes de China.\n\n⸻\n\nVI. Esto puede cambiar\n\n1. AstralSight Studios puede cambiar este acuerdo cuando quiera y avisarte por los canales oficiales. El nuevo acuerdo entrará en vigor cuando lo publiquemos.\n2. Si sigues usando este programa después de que cambiemos el acuerdo, significa que aceptas los cambios.\n\n⸻\n\nAntes de instalar y usar este programa, asegúrate de que entiendes y aceptas todo esto. Si no, desinstálalo y deja de usar AstroBox ahora mismo.\n\n",
+    "pa": "Política de privacidad de AstroBox\n\nEsta \"Política de privacidad\" te explica cómo AstralSight Studios recoge, usa, guarda, comparte y protege tu información. Si descargas, instalas, usas o accedes a este programa, significa que has leído y aceptas todo lo que se dice en esta política.\n\n⸻\n\nI. Qué información recogemos\n\n1. Información necesaria:\n    •    El modelo de tu reloj, la versión del sistema, cosas que identifican tu reloj (como el número de serie o la dirección MAC de Bluetooth);\n    •    Lo que haces con el programa (errores, fallos, funciones que usas);\n    •    Información de internet (sitios web que visitas, si las cosas funcionan bien, etc.).\n\n2. Información opcional (solo si nos das permiso):\n    •    Información de tu cuenta de terceros (como tu nombre de usuario o un código de autorización de Xiaomi). Esto solo lo enviamos directamente a esos terceros cuando usas una función y no lo guardamos nosotros ni nadie sin tu permiso.\n\n3. Información anónima:\n    •    Con qué frecuencia usas las funciones, qué tipo de relojes usa la gente, qué versiones del programa usa la gente, etc.\n\n⸻\n\nII. Para qué usamos la información\n\n1. Para que el programa funcione bien (como instalar cosas o conectar el reloj);\n2. Para mejorar el programa y que funcione mejor;\n3. Para arreglar fallos y que tengas una mejor experiencia;\n4. Para cumplir las leyes y normas.\n\n⸻\n\nIII. Con quién compartimos la información\n\n1. No vendemos ni alquilamos tu información a nadie.\n2. Podemos compartir información en estos casos:\n    •    Si lo exige la ley o si nos lo pide el gobierno;\n    •    Para evitar que se use mal el programa o para proteger nuestros derechos y los de los demás;\n    •    Si nos das permiso.\n\n⸻\n\nIV. Dónde guardamos los datos y cómo los protegemos\n\n1. Guardamos todos los datos de forma anónima;\n2. Los datos pueden guardarse en servidores de internet dentro o fuera de tu país;\n3. Usamos cosas técnicas (como contraseñas y control de acceso) para proteger los datos, pero no podemos asegurar que sean 100% seguros.\n\n⸻\n\nV. Tus derechos\n\n1. Puedes decir que no quieres darnos la información opcional, pero algunas funciones no funcionarán;\n2. Puedes pedirnos que borremos tus datos personales (si la ley lo permite);\n3. Puedes desinstalar este programa cuando quieras para que dejemos de recoger tu información.\n\n⸻\n\nVI. Esto puede cambiar\n\nAstralSight Studios puede cambiar esta política si cambian las leyes, la tecnología o el negocio. Te avisaremos por los canales oficiales y la nueva política entrará en vigor de inmediato.\n\n⸻\n\nAntes de instalar y usar este programa, asegúrate de que entiendes y aceptas todo esto. Si no, desinstálalo y deja de usar AstroBox ahora mismo.\n\n"
+  },
+  "communitytips": {
+    "title": "Cosas que debes saber sobre la comunidad",
+    "content": "Todo lo que se paga en AstroBox es cosa de la gente que sube las cosas, no tiene nada que ver con AstroBox. Nosotros no te cobramos nada ni ganamos dinero con eso. La única forma que tenemos de ganar dinero es vendiendo cosas de nuestra marca.\n\n⸻\n\nSi ves que algo que es gratis en otras apps aquí es de pago, ten en cuenta que a veces lo \"gratis\" es solo una prueba o una versión incompleta. En AstroBox, obligamos a la gente a decir si las cosas son de pago para que sepas lo que estás comprando. Si alguien no dice que algo es de pago, no lo aprobamos y no puede obligarte a pagar.\n\n⸻\n\nA veces, las imágenes de las cosas que ves en AstroBox tienen publicidad. Eso lo pone la gente que sube las cosas, nosotros no controlamos eso ni ponemos publicidad oficial de AstroBox.",
+    "confirm": "Entendido",
+    "cancel": "No estoy de acuerdo",
+    "alertTitle": "¿Seguro que no estás de acuerdo con esto?",
+    "alertContent": "Si no estás de acuerdo, no podrás usar las cosas de la comunidad dentro de la app.",
+    "titles": {
+      "pay": "Cosas de pago",
+      "ad": "Publicidad",
+      "price": "Gratis y de pago"
+    }
+  },
+  "home": {
+    "title": "Inicio",
+    "search": "Buscar",
+    "appList": "Lista de apps",
+    "loadingMore": "Cargando más...",
+    "none": "Parece que no hay nada por ahora...",
+    "bottom": "Ya está, no hay más... ¡hemos llegado al final! ❤",
+    "retry": "Reintentar",
+    "loading": "Cargando..."
+  },
+  "about": {
+    "title": "Acerca de",
+    "appVersion": "Versión de la app",
+    "foundNew": "Hay una versión nueva",
+    "checking": "Buscando actualizaciones",
+    "download": "Descargar actualización",
+    "latest": "Ya tienes la última versión",
+    "checkUpdate": "Buscar actualizaciones",
+    "buildDate": "Fecha de creación",
+    "team": "Equipo de desarrollo",
+    "changelog": "Qué hay de nuevo",
+    "roles": {
+      "nativeFrontend": "Desarrollo nativo/frontend",
+      "native": "Desarrollo nativo",
+      "designerFrontend": "Diseñador/desarrollo frontend"
+    },
+    "releaseName": "Nombre clave de la versión",
+    "copyright": "Copyright © 2025 AstralSightStudios. Todos los derechos reservados"
+  },
+  "product": {
+    "detail": "Detalles",
+    "notFound": "No se encuentra"
+  },
+  "common": {
+    "modify": "Modificar",
+    "cancel": "Cancelar",
+    "go": "Ir",
+    "loading": "Cargando...",
+    "refreshAll": "Actualizar todo",
+    "uninstall": "Desinstalar",
+    "disable": "Desactivar",
+    "enable": "Activar",
+    "install": "Instalar",
+    "ok": "Aceptar",
+    "open": "Abrir",
+    "download": "Descargar",
+    "share": "Compartir",
+    "fail": "Ha fallado",
+   "speedLimit": "Tranquilo, va despacito pero seguro"
+  },
+  "updateDialog": {
+    "title": "Nueva versión {version} disponible",
+    "body": "Qué hay de nuevo:",
+    "updateNow": "Actualizar ahora",
+    "later": "Recordármelo luego",
+    "ignore": "No volver a preguntar por esta versión"
+  },
+  "resourceType": {
+    "quickapp": "App rápida",
+    "watchface": "Esfera del reloj",
+    "firmware": "Firmware"
+  },
+  "resourcePaidType": {
+    "paid": "De pago",
+    "force_paid": "Obligatorio pagar"
+  },
+  "resourceCategory": {
+    "hidden_paid": "De pago (oculto)",
+    "hidden_force_paid": "Obligatorio pagar (oculto)",
+    "quickapp": "App rápida",
+    "watchface": "Esfera del reloj"
+  },
+  "installTask": {
+    "watchface": {
+      "description": "Archivo de esfera del reloj"
+    },
+    "thirdPartyApp": {
+      "description": "App de terceros"
+    },
+    "firmware": {
+      "description": "Archivo de firmware"
+    }
+  },
+  "banner": {
+    "loadFailed": {
+      "title": "¡No se ha podido cargar el banner!"
+    },
+    "noBanners": {
+      "title": "Sin banner...",
+      "description": "¿Problema de internet?"
+    },
+    "loading": "Cargando..."
+  },
+  "modifyWatchfaceDialog": {
+    "title": "Cambiar el ID de la esfera del reloj",
+    "placeholder": "Pon un número de 9 o 12 cifras"
+  },
+  "plugin": {
+    "noPluginsInstalled": "No tienes plugins instalados miau",
+    "noFeatures": "Este plugin no hace nada",
+    "storeEnd": "Ya está, no hay más... ¡hemos llegado al final! ❤",
+    "loading": "Cargando...",
+    "detailTitle": "Detalles",
+    "searchPlaceholder": "Buscar plugin",
+    "import": "Importar plugin",
+    "tabs": {
+      "installed": "Instalados",
+      "market": "Tienda de plugins",
+      "features": "Funciones",
+      "details": "Detalles"
+    },
+    "details": {
+      "author": "Autor",
+      "website": "Sitio web",
+      "version": "Versión",
+      "apiLevel": "Nivel de API",
+      "permissions": "Permisos"
+    },
+    "uninstallPrompt": {
+      "title": "Desinstalar plugin",
+      "body": "¿Seguro que quieres desinstalar {pluginName}?",
+      "primary": "Desinstalar",
+      "secondary": "Cerrar"
+    },
+    "restartPrompt": {
+      "title": "Hay que reiniciar",
+      "body": "Para que los cambios del plugin funcionen, tienes que reiniciar la app. Cuando le des a \"Reiniciar ahora\", la app se cerrará. Ábrela tú mismo.",
+      "primary": "Reiniciar ahora",
+      "secondary": "Cancelar"
+    }
+  },
+  "device": {
+    "authkeyPrompt": "Pon la Authkey, porfa",
+    "connectFailed": "No se ha podido conectar",
+    "authkeyPlaceholder": "Pon la AuthKey del reloj aquí",
+    "actions": {
+      "delete": "Quitar reloj",
+      "disconnect": "Desconectar",
+      "shareQR": "Compartir con código QR",
+      "qrResizeHint": "Haz clic para cambiar el tamaño",
+      "qrTitle": "Código QR del reloj:"
+    },
+    "disconnected": "Desconectado",
+    "connected": "Conectado",
+    "charging": "(Cargando)",
+    "lastChargePrefix": "Última carga",
+    "lastChargeSuffix": "antes",
+    "reconnect": "Volver a conectar",
+    "reconnectFailed": "No se pudo conectar la última vez. Inténtalo en la página de cambiar de reloj",
+    "switch": "Cambiar de reloj",
+    "notConnected": "reloj no conectado",
+    "connect": "Conectar reloj",
+   "networkProxyInfo": "AstroBox usa un proxy para conectarse a internet desde tu reloj.",
+    "fakeAndroidModeInfoLabel": "Tienes activado el modo \"Android falso\". Así no puedes conectar con el reloj. No puedes instalar ni usar nada. Si quieres usar esas cosas, desactiva esto y vuelve a conectar el reloj.",
+    "features": {
+      "installApp": "Instalar app rápida",
+      "installAppDesc": "Elige una app rápida e instálala en el reloj",
+      "installWatchface": "Instalar esfera del reloj",
+      "installWatchfaceDesc": "Elige una esfera del reloj e instálala en el reloj",
+      "installFirmware": "Instalar firmware",
+      "installFirmwareDesc": "Elige un firmware del sistema e instálalo en el reloj",
+      "manageApps": "Gestionar apps rápidas",
+      "manageAppsDesc": "Gestionar las apps rápidas del reloj",
+      "manageWatchfaces": "Gestionar esferas del reloj",
+      "manageWatchfacesDesc": "Gestionar las esferas del reloj del reloj",
+      "deviceInfo": "Información del reloj",
+      "deviceInfoDesc": "Ver los detalles del reloj"
+    }
+  },
+  "openToPageDialog": {
+    "title": "Ir a la página",
+    "placeholder": "Pon el nombre de la página"
+  },
+  "providerDialog": {
+    "title": "Estado de la fuente de la comunidad"
+  },
+  "queue": {
+    "title": "Cola",
+    "downloadQueue": "Cola de descarga",
+    "installQueue": "Cola de instalación",
+    "noTasks": "No hay nada en la cola",
+    "titleShort": "Cola",
+    "viewTasks": "Ver tareas",
+    "taskQueue": "Cola de tareas"
+  },
+  "loginDialog": {
+    "title": "Iniciar sesión en tu cuenta de Xiaomi",
+    "description": "Usa tu cuenta de Xiaomi para conectar los relojes que tienes",
+    "usernamePlaceholder": "Pon tu nombre de usuario, número de teléfono o ID de Xiaomi",
+    "passwordPlaceholder": "Pon tu contraseña",
+    "saveCredentials": "Guardar mi usuario y contraseña",
+    "loggingIn": "Iniciando sesión",
+    "login": "Iniciar sesión",
+    "emptyError": "¡Tienes que poner algo en la cuenta y en la contraseña!",
+    "iosCopyAlertTitle": "Aquí tienes el resultado",
+    "iosCopyAlertContentTip": "Parece que tienes un iPhone. Por culpa de cómo funciona iOS, no podemos añadir los relojes automáticamente. Busca el reloj al que te quieres conectar, copia la clave de autenticación y ve a la página de \"Cambiar reloj\" para conectarte tú mismo.",
+    "2fa": {
+      "title": "Necesitas verificación en dos pasos",
+      "body": "Tu cuenta tiene verificación en dos pasos. Dale a \"Aceptar\" para ir al navegador y hacerlo. Tendrás que ir dos veces al navegador. Cuando la página te diga \"Aceptar\", vuelve a AstroBox e intenta iniciar sesión otra vez."
+    }
+  },
+  "permission": {
+    "ble": {
+      "required": "Tienes que dar permiso de Bluetooth a AstroBox para que funcione bien. Porfa, deja que AstroBox use el permiso de \"Relojes cercanos\" y reinicia la app."
+    }
+  },
+  "connect": {
+    "failed": "No se ha podido conectar",
+   "iosIgnoreTips": "Error de conexión. En iPhone, ve a Ajustes > Bluetooth, toca (i) junto a tu reloj y elige \"Olvidar este dispositivo\" antes de reintentar.",
+    "handshakeFailed": "Error de protocolo de enlace",
+    "authFailed": "Error de clave o algo raro en el servidor. Reinicia la app y vuelve a intentarlo."
+  },
+  "settings": {
+    "title": "Ajustes",
+    "general": {
+      "title": "General",
+      "reduceAnimation": "Quitar animaciones",
+      "reduceAnimationDesc": "Si usas Webkit (como Chrome), te recomendamos que actives esto para que no tiemble la pantalla",
+      "language": "Idioma",
+      "languageDesc": "Elige el idioma de AstroBox",
+      "translateTeam": "Traductores",
+      "translateTeamDesc": "Mira quién ha traducido AstroBox a este idioma",
+      "themeColorTitle": "Color del tema",
+      "themeColorDesc": "Cambia el color de AstroBox",
+      "fixedHeader": "Barra de título fija",
+      "fixedHeaderDesc": "Que la barra de arriba se quede fija cuando bajas por la página (no te recomendamos que actives esto si usas Windows 11)",
+      "micaEffect": "Efecto de transparencia",
+      "micaEffectDesc": "Activa el efecto de transparencia de Windows 11",
+      "micaEffectFull": "Transparencia total",
+      "micaEffectPartial": "Barra lateral y barra de título transparentes",
+      "micaEffectTitleOnly": "Solo la barra de título transparente",
+      "micaEffectInfo": "Al activarlo, AstroBox usará el efecto **Mica** de Windows 11 (transparencia con desenfoque).\n\n⚠️ Nota: Puede afectar la legibilidad en algunos fondos, y el rendimiento del desenfoque varía según tu hardware.",
+      "liveActivity": "Notificación en tiempo real",
+      "liveActivityDesc": "Si activas esto, verás el progreso de las tareas en la Dynamic Island y en las notificaciones del sistema"
+    },
+    "tools": {
+      "title": "Herramientas",
+      "debugWindow": "Ventana de depuración",
+      "debugWindowDesc": "Mostrar o no la ventana de depuración",
+      "openlog": "Carpeta de registro",
+      "openlogDesc": "Abrir la carpeta donde se guardan los registros del programa",
+      "infoDump": "Información del reloj",
+      "infoDumpDesc": "Mostrar información sobre el reloj para ayudar a solucionar problemas",
+      "unlockCode": "Calcular código de desbloqueo",
+      "unlockCodeDesc": "Calcular el código para desbloquear el reloj si olvidas la contraseña",
+      "dialogTitle": "Desbloquea tu reloj Xiaomi",
+      "dialogUsage": "Cómo se usa",
+      "dialogUsageInfo": "Dale arriba, abajo, arriba, abajo, arriba, abajo en la página de descripción si olvidas la contraseña",
+      "result": "Código de desbloqueo",
+      "mac": "Dirección MAC",
+      "sn": "Código SN",
+      "noticeTitle": "Por favor, ten en cuenta",
+      "noticeBody": "Esto solo sirve para que los dueños del reloj puedan recuperarlo si lo han bloqueado. No lo uses para desbloquear relojes que no son tuyos. Nosotros no nos hacemos responsables de lo que hagas con esto.",
+      "agree": "Sí, he leído y estoy de acuerdo con el aviso legal.",
+      "calculate": "Calcular"
+    },
+    "account": {
+      "title": "Cuenta",
+      "loginBBS": "Iniciar sesión en Mitán",
+      "loginBBSDesc": "Inicia sesión en tu cuenta de Mitán para conseguir cosas de allí",
+      "syncDevices": "Conectar reloj",
+      "syncDevicesDesc": "Conectar los relojes de Xiaomi Sports Health",
+      "bbsAccount": "Cuenta de Mitán"
+    },
+    "install": {
+      "title": "Instalar",
+      "iosFakeAndroidMode": "Modo \"Android falso\"",
+      "iosFakeAndroidModeDesc": "Hacer como si tuvieras Android para conectar el reloj y desbloquear algunas cosas (solo funciona por un momento, si quieres instalar o gestionar cosas, desactívalo)",
+      "iosFakeAndroidModeEnableAlertTitle": "Activar el modo \"Android falso\"",
+      "iosFakeAndroidModeEnableAlertContent": "Vas a activar el modo \"Android falso\".\nAsí podrás desbloquear algunas cosas que solo funcionan en Android. Pero, por culpa de cómo funciona Xiaomi, solo podrás conectar el reloj por un momento. La conexión se quitará en cuanto se conecte, así que no podrás hacer nada más que conectar el reloj. Para instalar o quitar cosas, desactiva esto y vuelve a conectar el reloj.\n¿Seguro que quieres desconectar el reloj y activar esto?",
+      "removeBondBeforeConnect": "Quitar el reloj antes de conectar",
+      "removeBondBeforeConnectDesc": "Quitar el reloj antes de conectarlo ayuda a que no se desconecte",
+      "sendInterval": "Tiempo entre envíos",
+      "sendIntervalDesc": "El tiempo que pasa entre que enviamos las cosas al instalar. Si tienes problemas al instalar, prueba a cambiar esto"
+    },
+    "source": {
+      "title": "De dónde se descarga el programa (necesitas reiniciar)",
+      "officialCdn": "Sitio oficial",
+      "officialCdnDesc": "Elige el sitio desde donde se descarga el programa"
+    },
+    "queue": {
+      "title": "Cola",
+      "autoInstall": "Instalar automáticamente",
+      "autoInstallDesc": "Instalar automáticamente después de descargar",
+      "dontClear": "No quitar la cola",
+      "dontClearDesc": "No quitar la cola después de instalar para poder ver los errores"
+    },
+    "about": {
+      "title": "Acerca de",
+      "aboutAstrobox": "Acerca de AstroBox",
+      "aboutAstroboxDesc": "Información sobre AstroBox",
+      "website": "Sitio web oficial",
+      "websiteDesc": "Visita el sitio web de AstroBox",
+      "qq": "Grupo QQ",
+      "qqDesc": "Únete al grupo QQ de AstroBox (920456907)",
+      "bandbbs": "Foro de Mitán",
+      "bandbbsDesc": "Ve al foro de Mitán para hablar y dar tu opinión",
+      "licences": "Licencia de código abierto",
+      "licencesDesc": "Ver la licencia de código abierto de AstroBox",
+      "disclaimer": "Aviso legal",
+      "disclaimerDesc": "Ver el aviso legal de AstroBox",
+      "startoobe": "Volver a empezar la configuración inicial",
+      "startoobeDesc": "Empezar el proceso de configuración para configurar AstroBox otra vez"
+    }
+  },
+  "licences": {
+    "title": "Licencia de código abierto",
+    "intro": "Aquí tienes las licencias de todo lo que hemos usado para hacer este programa.",
+    "node": "Dependencias de Node.js",
+    "crates": "Paquetes Creates.io",
+    "filter": "Filtrar",
+    "author": "Autor:",
+    "license": "Licencia:",
+    "description": "Descripción:",
+    "url": "URL:"
+  },
+  "bandbbs": {
+    "title": "Cuenta de Mitán",
+    "uid": "UID:",
+    "logout": "Cerrar sesión",
+    "purchased": "Cosas que has comprado",
+    "enter_resource_id": "Pon el ID de la cosa de pago que quieres descargar",
+    "resource_id_placeholder": "ID de la cosa",
+    "query": "Buscar"
+  },
+  "iframe": {
+    "title": "Abrir página web"
+  },
+  "addDeviceFromQr": {
+    "title": "Reloj encontrado"
+  },
+  "dragToPush": {
+    "title": "Suelta aquí para instalar",
+    "supportedFiles": "Puedes soltar esferas de reloj, apps rápidas y plugins de AstroBox"
+  },
+  "onlineImage": {
+    "loadFailed": "No se ha podido cargar la imagen"
+  },
+  "pluginStoreTest": {
+    "waiting": "Esperando para empezar",
+    "success": "Todo ha ido bien",
+    "refreshAll": "Actualizar todo",
+    "pullPage": "Descargar página",
+    "pullItem": "Descargar cosa = plugin de prueba",
+    "downloadAndPackage": "Descargar y empaquetar cosa = plugin de prueba",
+    "pullReport": "Descargar registro de la pulsera"
+  },
+  "productInfo": {
+    "about": "Sobre esto",
+    "update": "Actualizar",
+    "updateDescription": "Hemos hecho que la esfera del reloj sea más estable y que funcione mejor.",
+    "deviceRequirements": "Qué necesitas",
+    "compatible": "Esto funciona con tu",
+    "incompatible": "Esto no funciona con tu",
+    "incompatibleSuffix": "no compatible",
+    "otherVersions": "También tenemos otras versiones para otros relojes.",
+    "inQueue": "Ya está en la cola",
+    "copyLink": "Copiar enlace",
+    "resizeQr": "Haz clic para cambiar el tamaño",
+    "viewOnBandBBS": "Ver en la comunidad de Mitán"
+  },
+  "appManagement": {
+    "title": "Gestionar apps rápidas",
+    "none": "No tienes apps rápidas por ahora"
+  },
+  "deviceInfo": {
+    "title": "Información del reloj",
+    "notRealtime": "Esto no se actualiza al momento",
+    "groups": {
+      "device": "Información del reloj",
+      "system": "Información del sistema",
+      "status": "Estado del reloj",
+      "storage": "Espacio"
+    },
+    "fields": {
+      "name": "Nombre",
+      "address": "Dirección",
+      "authkey": "AuthKey",
+      "connectionType": "Cómo se conecta",
+      "codename": "Nombre clave",
+      "model": "Modelo",
+      "imei": "IMEI",
+      "firmware": "Versión del sistema",
+      "serial": "Número de serie",
+      "battery": "Batería",
+      "chargeStatus": "Estado de carga",
+      "lastCharge": "Última carga",
+      "storageTotal": "Espacio total",
+      "storageUsed": "Espacio usado"
+    }
+  },
+  "watchfaceManagement": {
+    "title": "Gestionar esferas del reloj",
+    "none": "No tienes esferas del reloj por ahora"
+  },
+  "switchDevice": {
+    "title": "Elige un reloj",
+    "getSavedFailed": "No se han podido conseguir los relojes guardados",
+    "scanAndAdd": "Buscar y añadir reloj",
+    "scanFailed": "No se ha podido buscar el reloj",
+    "scanNotFound": "No se ha encontrado nada por ahora",
+    "savedDevices": "Relojes conectados",
+    "noSavedDevices": "Aún no has conectado ningún reloj"
+  },
+  "providerName": {
+    "official": "Sitio oficial",
+    "bandbbs": "Comunidad de Mitán"
+  },
+  "deviceSupportTips": {
+    "minimumSupportDialogTitle": "Lo mínimo que necesitas",
+    "minimumSupportDialogContent": "Parece que tu teléfono tiene una versión antigua de Android (menos de Android 13). Para que todo funcione bien, usa un teléfono con Android 13 o más. Si usas un teléfono con una versión antigua, no te aseguramos que vaya a funcionar ni te daremos soporte técnico. Además, puede que tengas que actualizar la versión de WebView para poder usar AstroBox.",
+    "minimumSupportDialogUpdateWebViewButton": "Actualizar WebView"
+  },
+  "oobe": {
+    "welcomeTitleTop": "Te damos la bienvenida a",
+    "welcomeTitleLeft": "Tu próxima",
+    "welcomeTitleRight": "Caja de herramientas para smartwatches",
+    "skip": "Saltar",
+    "next": "Siguiente",
+    "continue": "Continuar"
+  }
+}
